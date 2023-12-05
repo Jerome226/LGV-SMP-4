@@ -1,0 +1,19 @@
+# ignore everything
+*
+!*/
+
+# unignore github and curseforge  files
+!.gitignore
+!config.json
+!.gitattributes
+!.github/**
+!pakku**
+
+!/config/**
+!/defaultconfigs/**
+!/kubejs/**
+!/mods/**
+/config/valkyrienskies/**
+/config/jei/world/local/**
+/config/oculus.properties
+!/mods/.index/**

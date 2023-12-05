@@ -1,0 +1,96 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 29, 2023, 2:53:26 PM
+
+#vs_clockwork:fuel/sweet
+- vs_clockwork:strawberry_frosting
+
+#createbigcannons:molten_metal
+- createbigcannons:flowing_molten_cast_iron
+- createbigcannons:molten_cast_iron
+- createbigcannons:flowing_molten_bronze
+- createbigcannons:molten_bronze
+- createbigcannons:flowing_molten_steel
+- createbigcannons:molten_steel
+- createbigcannons:flowing_molten_nethersteel
+- createbigcannons:molten_nethersteel
+
+#forge:crude_oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:molten_bronze
+- createbigcannons:flowing_molten_bronze
+- createbigcannons:molten_bronze
+
+#c:molten_cast_iron
+- createbigcannons:flowing_molten_cast_iron
+- createbigcannons:molten_cast_iron
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#c:molten_steel
+- createbigcannons:flowing_molten_steel
+- createbigcannons:molten_steel
+
+#forge:molten_cast_iron
+- createbigcannons:flowing_molten_cast_iron
+- createbigcannons:molten_cast_iron
+
+#forge:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#forge:molten_steel
+- createbigcannons:flowing_molten_steel
+- createbigcannons:molten_steel
+
+#forge:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#create:bottomless/deny
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+
+#forge:creosote
+
+#c:molten_bronze
+- createbigcannons:flowing_molten_bronze
+- createbigcannons:molten_bronze
+
+#vs_clockwork:fuel/stale
+- vs_clockwork:vanilla_frosting
+
+#vs_clockwork:fuel/plain
+- vs_clockwork:chocolate_frosting

@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:treated_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "createbigcannons:medium_cast_mould"
+    }
+  ]
+}
