@@ -5649,10 +5649,6 @@ file = "mods/Shrink-1.18.2-1.3.3.jar"
 hash = "f4ca293df7ab37ee8c53964ab8c35fc58a52294daf391251c757c19bf6840329"
 
 [[files]]
-file = "mods/SimpleDiscordRichPresence-forge-3.0.4-build.28+mc1.18.2.jar"
-hash = "2893d461c3c15a71d35e022083b0ba1f01e4f8e26d814cb1d455f01aa83f661e"
-
-[[files]]
 file = "mods/Steam_Rails-1.2.6+forge-mc1.18.2.jar"
 hash = "b9e5babb6cced6f89e88d7ae605133127b286023deb0fa471e26d24460009c71"
 
@@ -5877,10 +5873,6 @@ file = "mods/rhino-forge-1802.2.1-build.255.jar"
 hash = "72c08867dabd2bb863753b4ac4afb0fbb08931ac51f5241b044fa51d0236f4f2"
 
 [[files]]
-file = "mods/rubidium-extra-0.4.18+mc1.18.2-build.86.jar"
-hash = "6c6d91c0f03fc5dc9785f3dfbde29387ada46af2d467887ce9ff64f5979e2aee"
-
-[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "f39471af281bcbf9082ec445c60568d17c5a94a3d8f7be77233bb8afa5095f10"
 metafile = true
@@ -5910,10 +5902,6 @@ hash = "5cc6d9cab72cef798cba3232d43f7ee25eecf39574eace2dea23c9af053098d9"
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "f258fd494d275fd23ca2315749927be1b626e7092d886a69dda943ba9da3b1a6"
 metafile = true
-
-[[files]]
-file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
-hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/torohealth-damage-indicators.pw.toml"

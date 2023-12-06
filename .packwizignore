@@ -19,15 +19,15 @@
 /config/jei/world/local/**
 /config/oculus.properties
 
-/mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar
-/mods/rubidium-extra-0.4.18+mc1.18.2-build.86.jar
-/mods/notenoughanimations-forge-1.6.0-mc1.18.2.jar
-/mods/ReAuth-1.18-Forge-4.0.7.jar
-/mods/FpsReducer2-forge-1.18.2-2.0.jar
-/mods/SimpleDiscordRichPresence-forge-3.0.4-build.28+mc1.18.2.jar
-/mods/controllable-0.17.0-1.18.2.jar
-/mods/dynamiclightsreforged-1.18.2_v1.3.3.jar
-/mods/embeddium-0.2.12+mc1.18.2.jar
-/mods/embeddiumplus-1.18.2-v1.0.0.jar
-/mods/modelfix-1.8.jar
-/mods/torohealth-1.18-forge-2.jar
+/mods/textrues_embeddium_options**.jar
+/mods/rubidium-extra**.jar
+/mods/notenoughanimations-forge**.jar
+/mods/ReAuth-1.18**.jar
+/mods/FpsReducer2-forge**
+/mods/SimpleDiscordRichPresence-forge**.jar
+/mods/controllable-0.17.0**.jar
+/mods/dynamiclightsreforged-1.18.2**.jar
+/mods/embeddium-0.2.12**.jar
+/mods/embeddiumplus-1.18.2**.jar
+/mods/modelfix-**.jar
+/mods/torohealth-1.18-forge**.jar
