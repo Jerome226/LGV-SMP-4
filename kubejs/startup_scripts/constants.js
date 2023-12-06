@@ -1,3 +1,5 @@
+// priority: 11000
+
 global.itemsToHide = []
 global.itemsToShow = []
 global.fluidsToHide = []
