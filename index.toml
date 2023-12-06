@@ -581,6 +581,10 @@ file = "config/modnametooltip-client.toml"
 hash = "4224a9a1972b5007d81ffc9c634f120448367840c191bcdca6cf23a5fa2d539c"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "a2ad25df3c1e9ba25c17b5b2befadb6f71f5d9e16df1106f0971a4fdb7a0c166"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "37f6a9b53c5ed0114c8539256f0222be96abff36a8f4b162d259073f4bc1879d"
 
@@ -738,7 +742,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -5589,6 +5593,10 @@ file = "mods/Controlling-forge-1.18.2-9.0+23.jar"
 hash = "dffc08569ae8e1e339c84762f363a16c06134b428351ba30cb556693c5fbfb35"
 
 [[files]]
+file = "mods/CuriosQuarkOBP-1.18.2-1.1.4.jar"
+hash = "9c9e6e5040ac7a1970b1e164544f0822ebe79991d6958a6c46b4fc95d167c23b"
+
+[[files]]
 file = "mods/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
 hash = "4ffd05ae2ec725f0ad10fc6c6186619601ecb1664dec49f5f5038ab9a5faf600"
 
@@ -5599,6 +5607,18 @@ hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
 [[files]]
 file = "mods/FarmersRespite-1.18.2-1.3.0.jar"
 hash = "2b791de298dc152cc88b9c74c88e3d2b12c71023e868b703d9609d765ed54086"
+
+[[files]]
+file = "mods/FastFurnace-1.18.2-6.0.3.jar"
+hash = "b7f23cb2bc8c4f0f52a387aaf17b6d58c644b0d6a8c19b08475a914e7fc9a7a3"
+
+[[files]]
+file = "mods/FastSuite-1.18.2-3.0.2.jar"
+hash = "094877c11e159d155ef92be55f7fc5b9be59c6a9125b8f190ead1b2972ff6745"
+
+[[files]]
+file = "mods/FastWorkbench-1.18.2-6.1.1.jar"
+hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"
 
 [[files]]
 file = "mods/FramedBlocks-5.11.4.jar"
@@ -5627,6 +5647,10 @@ hash = "85d51408f5b8ef636960e2d2925b81b11072a8b975dcc5cac8a80df7a1eefc66"
 [[files]]
 file = "mods/Log-Begone-Forge-1.18-1.0.4.jar"
 hash = "7ddc5dd585294c1cb1dbce02d75341563ac4fc9ab9ff6ffe912adfb43096e1cc"
+
+[[files]]
+file = "mods/NethersDelight-1.18.2-2.2.0.jar"
+hash = "b23673044c02d6e29981b4c24ca0099a20bf19089db13a4d4bfaf376680408af"
 
 [[files]]
 file = "mods/Patchouli-1.18.2-71.1.jar"
@@ -5802,6 +5826,10 @@ file = "mods/ftb-teams-forge-1802.2.11-build.107.jar"
 hash = "e026cb1e2af513b590c2cf7fbacfe69f05a52e1c238eeb272e51b45bdccd143b"
 
 [[files]]
+file = "mods/geckolib-forge-1.18-3.0.57.jar"
+hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
+
+[[files]]
 file = "mods/gravestone-1.18.2-1.0.2.jar"
 hash = "b80a4e72bc7ed7ef39af76c0c21573cb3ecf3582a23d4e77c6a1596ca7cd1757"
 
@@ -5849,6 +5877,10 @@ hash = "79df41e1270f3619a94b760a336c5d995e90b551945886d225ad42126c850ac6"
 [[files]]
 file = "mods/modnametooltip-1.18.1-1.18.0.jar"
 hash = "b7a11414d83a6da36d854540b762151095e0f3f7eeac4ef166150cca466d323e"
+
+[[files]]
+file = "mods/mowziesmobs-1.5.32.jar"
+hash = "1b962a14638bec59276bda71471d96801533ec1ac14990ddfb3a83bb4f7dcc31"
 
 [[files]]
 file = "mods/myrtrees-forge-1.1.0-build.29.jar"
