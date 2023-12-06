@@ -6,7 +6,7 @@ hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
 
 [[files]]
 file = ".gitignore"
-hash = "4dfaea3dc9b576f0820171094ef5a496beb120403bef66922b1d631425e292d7"
+hash = "6164a2a7771772c2d206375c756ce51b823d59c6cd17d3be7e64ee760c73c1b5"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -667,6 +667,54 @@ hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
 [[files]]
 file = "config/torohealth.json"
 hash = "fad317188e6d186523b348d70461e4d432f0343fed90e0205d51105fd6280965"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_client.schema.json"
+hash = "fd57caa7cfa85698d18ff67ff1247c823eb27e57254adf15664cc67e0e175903"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_common.schema.json"
+hash = "6d80484f70f383c02f4c8318d54056767c9a3fe0a22e3fa03ff1f30370a2ce95"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_core_server.schema.json"
+hash = "f6758938eadfd32dfb77bdc0b265b19259b6e0c44f358145528032ba89d3c680"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
+hash = "c335d926a3d773484252e6460257f513e58bb62e470fe059a14a69a09b90d5bd"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
+hash = "d9ea1f6d5c50780fe5fcd39de343e22a7f0469c932907b9fd8605f4031eb41ff"
+
+[[files]]
+file = "config/valkyrienskies/schemas/vs_server.schema.json"
+hash = "a341bb0adb20cc6127d3a6d10fb4e1627b5a20fcd4c0810a30751415b35d9be3"
+
+[[files]]
+file = "config/valkyrienskies/vs_client.json"
+hash = "60155b3e9fac2f7cbea2d1551b45daf8d834dfd52dcb64b9c8f17bc0edfd9e7a"
+
+[[files]]
+file = "config/valkyrienskies/vs_common.json"
+hash = "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466"
+
+[[files]]
+file = "config/valkyrienskies/vs_core_server.json"
+hash = "ecbb604dfc0fc1d0c8de9f8a6a3f0c0f8c6b5abee1d6474a58a3349e3ea4830c"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_client.json"
+hash = "0a7d294b51f259b447a92e368da137f612bb9ff33ed8d390b49149aed3ca2a03"
+
+[[files]]
+file = "config/valkyrienskies/vs_eureka_server.json"
+hash = "229b45f8ad25315560a5e40c6e9f7b206363f050bd2510514760be1c4efbe790"
+
+[[files]]
+file = "config/valkyrienskies/vs_server.json"
+hash = "3001b184297897ae6048e4db7428b9758775c253be1156237266039a350e5d0b"
 
 [[files]]
 file = "config/vs_clockwork-client.toml"
