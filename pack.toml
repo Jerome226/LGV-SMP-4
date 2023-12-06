@@ -1,0 +1,13 @@
+name = "LGV SMP 4"
+author = "PufferTeam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "761c077212ace5067986ed8a0fba46c43de555583931f042a1e9f322ad4645d3"
+
+[versions]
+forge = "40.2.14"
+minecraft = "1.18.2"

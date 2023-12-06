@@ -13,7 +13,8 @@
 !/defaultconfigs/**
 !/kubejs/**
 !/mods/**
+!index.toml
+!pack.toml
 /config/valkyrienskies/**
 /config/jei/world/local/**
 /config/oculus.properties
-!/mods/.index/**
