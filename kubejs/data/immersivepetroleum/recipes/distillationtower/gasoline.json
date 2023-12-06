@@ -1,0 +1,25 @@
+{
+  "type": "immersivepetroleum:distillation",
+  "byproducts": [
+    {
+      "item": "immersivepetroleum:bitumen",
+      "chance": "0.07"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "immersivepetroleum:naphtha",
+      "amount": 30
+    },
+    {
+      "fluid": "immersivepetroleum:ethylene",
+      "amount": 20
+    }
+  ],
+  "input": {
+    "tag": "forge:gasoline",
+    "amount": 50
+  },
+  "time": 1,
+  "energy": 1024
+}

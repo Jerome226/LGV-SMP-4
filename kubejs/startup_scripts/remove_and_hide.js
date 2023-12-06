@@ -1,4 +1,12 @@
 global.removeAndHide.push(
+    'quark:golden_apple_crate',
+    'quark:apple_crate',
+    'quark:potato_crate',
+    'quark:carrot_crate',
+    'quark:beetroot_crate',
+    'everycomp:q/botania/dreamwood_ladder',
+    'everycomp:q/myrtrees/rubberwood_ladder',
+    'everycomp:q/botania/livingwood_ladder',
     'createaddition:redstone_relay',
     'createaddition:festive_spool',
     'createaddition:gold_wire',

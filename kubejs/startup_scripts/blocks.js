@@ -24,7 +24,7 @@ onEvent('block.registry', event => {
     //event.create('pitch_treated_wood').material('wood').hardness(0.5).tagBlock('minecraft:mineable/axe')
     //event.create('ash_treated_wood').material('wood').hardness(0.5).tagBlock('minecraft:mineable/axe')
 
-    event.create('bioplast_block').material('glass').hardness(0.5)
-    event.create('epoxyplast_block').material('glass').hardness(0.5)
+    event.create('bioplast_block').material('glass').hardness(0.5).opaque(false).renderType('cutout')
+    event.create('epoxyplast_block').material('glass').hardness(0.5).opaque(false).renderType('cutout')
 
 })

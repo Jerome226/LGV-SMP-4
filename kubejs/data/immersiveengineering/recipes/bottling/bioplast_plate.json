@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:bottling_machine",
+    "results": [
+        {
+            "item": "kubejs:bioplast_sheet"
+        },
+        {
+            "item": "immersiveengineering:mold_plate"
+        }
+    ],
+    "input": {
+        "item": "immersiveengineering:mold_plate"
+    },
+    "fluid": {
+        "tag": "forge:bioplastic",
+        "amount": 250
+    }
+}

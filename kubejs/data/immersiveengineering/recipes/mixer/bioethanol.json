@@ -1,0 +1,17 @@
+{
+    "type": "immersiveengineering:mixer",
+    "inputs": [
+        {
+            "item": "kubejs:bio_fuel"
+        }
+    ],
+    "result": {
+        "fluid": "createaddition:bioethanol",
+        "amount": 125
+    },
+    "fluid": {
+        "tag": "forge:ethanol",
+        "amount": 125
+    },
+    "energy": 1400
+}

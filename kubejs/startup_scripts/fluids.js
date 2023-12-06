@@ -5,6 +5,13 @@ onEvent('fluid.registry', event => {
         .displayName('Pitch')
     global.tagFluids.push('kubejs:pitch/minecraft:water')
 
+    event.create('raw_gasoline')
+        .stillTexture('kubejs:block/fluid/raw_gasoline_still')
+        .flowingTexture('kubejs:block/fluid/raw_gasoline_flow')
+        .bucketColor(0x464646)
+        .displayName('Raw Gasoline')
+    global.tagFluids.push('kubejs:raw_gasoline/minecraft:water')
+
     event.create('bioplastic')
         .stillTexture('kubejs:block/fluid/bioplastic_still')
         .flowingTexture('kubejs:block/fluid/bioplastic_flow')

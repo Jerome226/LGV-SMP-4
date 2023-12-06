@@ -1,0 +1,21 @@
+{
+    "type": "immersiveengineering:blueprint",
+    "inputs": [
+        {
+            "item": "kubejs:creosote_sheet"
+        },
+        {
+            "item": "create:electron_tube"
+        },
+        {
+            "tag": "forge:dusts/redstone"
+        },
+        {
+            "tag": "forge:wires/electrum"
+        }
+    ],
+    "category": "components",
+    "result": {
+        "item": "immersiveengineering:component_electronic"
+    }
+}

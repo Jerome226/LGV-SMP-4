@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:bottling_machine",
+    "results": [
+        {
+            "item": "kubejs:bioplast_block",
+            "count": 4
+        },
+        {
+            "item": "immersiveengineering:mold_packing_4"
+        }
+    ],
+    "input": {
+        "item": "immersiveengineering:mold_packing_4"
+    },
+    "fluid": {
+        "tag": "forge:bioplastic",
+        "amount": 4000
+    }
+}

@@ -72,3 +72,8 @@ global.quarkWoodTypes = [
     'blossom',
     'azalea'
 ];
+
+global.botaniaWoodTypes = [
+    'livingwood',
+    'dreamwood'
+]

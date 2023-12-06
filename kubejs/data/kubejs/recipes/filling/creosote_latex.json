@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "myrtrees:latex"
+    },
+    {
+      "fluidTag": "forge:creosote",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:cured_latex"
+    }
+  ]
+}

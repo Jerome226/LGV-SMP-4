@@ -1,0 +1,15 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    [
+      {
+        "item": "kubejs:cured_latex"
+      }
+    ]
+  ],
+  "results": [
+    {
+      "item": "kubejs:creosote_sheet"
+    }
+  ]
+}

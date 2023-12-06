@@ -46,6 +46,8 @@ onEvent('tags.fluids', event => {
         global.tagFluids.push(`kubejs:${name}/minecraft:lava`)
     });
     
+    event.add('kubejs:water', 'minecraft:water')
+    event.add('forge:molten_nethersteel', 'createbigcannons:molten_nethersteel')
 
     global.tagFluids.forEach(i => {
         let result = i.split('/')

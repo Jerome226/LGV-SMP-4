@@ -9,6 +9,8 @@ onEvent('item.registry', event => {
 
     event.create('bioplast_sheet').maxStackSize(64);    
     event.create('epoxyplast_sheet').maxStackSize(64);
+    
+    event.create('aluminum_mechanical_component').maxStackSize(64);    
 
     event.create('basic_electronic_component').maxStackSize(64);
 

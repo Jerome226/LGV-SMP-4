@@ -343,4 +343,98 @@ onEvent('recipes', event => {
             }).id(global.getId('bottling_mold', fluid, output))
         }
     }
+
+    global.sawmill = function sawmill(input, stripped, output, outputCount) {
+        event.custom({
+            "type": "immersiveengineering:sawmill",
+            "secondaries": [
+                {
+                    "output": {
+                        "item": "immersiveengineering:sawdust"
+                    },
+                    "stripping": true
+                },
+                {
+                    "output": {
+                        "item": "immersiveengineering:sawdust"
+                    },
+                    "stripping": false
+                }
+            ],
+            "result": {
+                "item": output,
+                "count": outputCount
+            },
+            "energy": 1600,
+            "input": [
+                {
+                    "item": input
+                }
+            ],
+            "stripped": {
+                "item": stripped
+            }
+        }).id(global.getId('sawmill', input, output))
+    }
+
+    global.mixingAlloy = function mixingAlloy(input, input2, output, heatingLevel) {
+        event.custom({
+            "type": "create:mixing",
+            "ingredients": [
+                {
+                    "fluid": input,
+                    "amount": 1
+                },
+                {
+                    "fluid": input2,
+                    "amount": 1
+                }
+            ],
+            "results": [
+                {
+                    "fluid": output,
+                    "amount": 2
+                }
+            ],
+            "heatRequirement": "heated"
+        }).id(global.getId('alloying', input, output))
+    }
+
+    global.addItemApplication = function addItemApplication(isTag, block, input, result) {
+        if (isTag) {
+            event.custom({
+                "type": "create:item_application",
+                "ingredients": [
+                    {
+                        "tag": block
+                    },
+                    {
+                        "item": input
+                    }
+                ],
+                "results": [
+                    {
+                        "item": result
+                    }
+                ]
+            }).id(global.getId('item_application', input, result))
+        } else {
+            event.custom({
+                "type": "create:item_application",
+                "ingredients": [
+                    {
+                        "item": block
+                    },
+                    {
+                        "item": input
+                    }
+                ],
+                "results": [
+                    {
+                        "item": result
+                    }
+                ]
+            }).id(global.getId('item_application', input, result))
+        }
+    }
 })
