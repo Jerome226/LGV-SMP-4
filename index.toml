@@ -6,7 +6,7 @@ hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
 
 [[files]]
 file = ".gitignore"
-hash = "6164a2a7771772c2d206375c756ce51b823d59c6cd17d3be7e64ee760c73c1b5"
+hash = "540db47dc058f48820ece4d75af42d911b357cbee90b86ad501dbdd81a5371b4"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -5518,7 +5518,7 @@ hash = "a92550729180e5e8b162d240c6b75a7e6dd032cb1a4f2061b936e989d008446e"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"
-hash = "a3179ab591f767aa1e871be36feece1c0b6cc2ffb850bb33986cab5f175e5322"
+hash = "317ccaf0ca2145d5a91efaa37e02c0501ceb84006a8ec864d57bbb3ea52baa56"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids.js"
@@ -5599,10 +5599,6 @@ hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
 [[files]]
 file = "mods/FarmersRespite-1.18.2-1.3.0.jar"
 hash = "2b791de298dc152cc88b9c74c88e3d2b12c71023e868b703d9609d765ed54086"
-
-[[files]]
-file = "mods/FpsReducer2-forge-1.18.2-2.0.jar"
-hash = "9d68d6c1fc30fc2d062294a0b0a9632aebf8dc9be3b8ba0672784ea6c82aaaf7"
 
 [[files]]
 file = "mods/FramedBlocks-5.11.4.jar"
@@ -5713,8 +5709,9 @@ file = "mods/cofh_core-1.18.2-9.2.3.47.jar"
 hash = "e0208bf4524841e0a28c791f070d5d36dfd3d7e61720385bdd24c098046ed38e"
 
 [[files]]
-file = "mods/controllable-0.17.0-1.18.2.jar"
-hash = "57e2cffb8f002c64088e28e43ecd7ee1011a1b3f28c254db115e79a230f95576"
+file = "mods/controllable.pw.toml"
+hash = "979a27b2e474ec7e23e72b6bc03382879a294e1dc98311217b1d1a1b8abafc8e"
+metafile = true
 
 [[files]]
 file = "mods/create-1.18.2-0.5.0.j-all.jar"
@@ -5749,16 +5746,23 @@ file = "mods/curios-forge-1.18.2-5.0.9.1.jar"
 hash = "ab11b7aaee9085e597bfa5304a5626b9daa301b3d8bc94c2aa68b48b64cd429b"
 
 [[files]]
-file = "mods/dynamiclightsreforged-1.18.2_v1.3.3.jar"
-hash = "6443ac136868b0c56036efd2572cc3686429ad676c23c95ff8237fc031245c15"
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
+metafile = true
 
 [[files]]
 file = "mods/embeddium-0.2.11+mc1.18.2.jar"
 hash = "c334084a1821d1958992a46cb6c39279d38786b09fe29eb99f1134a6b883f10a"
 
 [[files]]
-file = "mods/embeddiumplus-1.18.2-v1.0.0.jar"
-hash = "1c30d23ad763a104750b8461fe093062a2304ed30e15a1c3d67ebda6a71004ce"
+file = "mods/embeddium-plus.pw.toml"
+hash = "f55cbf1ace7f96a52e35dc2478abc2832a34a92dd7dfa47521fd6d63661fa328"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2f8feb80357a61faa2722d63d4b70d3e81b4603041e281a7e6ff91f610d9901c"
+metafile = true
 
 [[files]]
 file = "mods/eureka-1.1.0-beta.10.jar"
@@ -5779,6 +5783,11 @@ hash = "f8bf79f6eb2e31dc1e347697c18effdc87ac9d1c7e7060c50ffdef3ad41da139"
 [[files]]
 file = "mods/flywheel-forge-1.18.2-0.6.8.a.jar"
 hash = "dbda3a1bdbaf173c620179858266884e67772d3828f5a7e04bb1d4c409269081"
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
+metafile = true
 
 [[files]]
 file = "mods/ftb-essentials-1802.2.2-build.83.jar"
@@ -5833,8 +5842,9 @@ file = "mods/memoryleakfix-forge-1.17+-1.0.0.jar"
 hash = "27272de0683259d898c4141a86a1d08873ba86a72522fba94cb6331e955715d4"
 
 [[files]]
-file = "mods/modelfix-1.8.jar"
-hash = "18ed10418cc81086dbfd43da8eff437ad38e425582376b0abd9ea600a22f136d"
+file = "mods/model-gap-fix.pw.toml"
+hash = "a14328f9f973819d53307742febba160b713ba01ca0bd6629997f9b777f2e99a"
+metafile = true
 
 [[files]]
 file = "mods/modernfix-forge-5.9.3+mc1.18.2.jar"
@@ -5880,6 +5890,11 @@ file = "mods/selene-1.18.2-1.17.11.jar"
 hash = "655f636372b0a50902a0268ff3b58e076e3653738b2100b55361c85bbfefab1d"
 
 [[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "862b48454f6cd459349b0f6e53cba86cb2f8ee3263cba9d4fcf1841624b3ef15"
+metafile = true
+
+[[files]]
 file = "mods/sliceanddice-1.1.3.jar"
 hash = "e49555e887bcbec424a7df20a1c315d5824d3d18cf99c76707b8cae2f750d8b6"
 
@@ -5901,8 +5916,9 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/torohealth-1.18-forge-2.jar"
-hash = "9e748a29fb55acfe8866301e2886967b38a7e783d632b93e8fae0dda0e16dfb6"
+file = "mods/torohealth-damage-indicators.pw.toml"
+hash = "1f24411dd8081249aaf0fb8a9e9c524849cfe8e2b4f4588114f0ff4f9c64c2a5"
+metafile = true
 
 [[files]]
 file = "mods/valkyrienskies-118-2.1.0-beta.14.jar"
