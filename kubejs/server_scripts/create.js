@@ -47,6 +47,22 @@ onEvent('recipes', event => {
                 "item": "create:incomplete_precision_mechanism"
               },
               {
+                "item": "create:wrench"
+              }
+            ],
+            "results": [
+              {
+                "item": "create:incomplete_precision_mechanism"
+              }
+            ]
+          },
+          {
+            "type": "create:deploying",
+            "ingredients": [
+              {
+                "item": "create:incomplete_precision_mechanism"
+              },
+              {
                 "tag": "forge:nuggets/iron"
               }
             ],

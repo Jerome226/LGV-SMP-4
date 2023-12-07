@@ -554,7 +554,7 @@ hash = "700d1b17c7a6567a766e52c000dd3d763b3abec122b482076123cd8e0ca29d78"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d77bc0b6d3074c32ab3b9cdb4e283cac2c5d749b1b36756af226974e71b47a47"
+hash = "7f5e7a12777f9b8c605009e5067699ee2556dba008b0392d9001e06f551d25ce"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -4517,8 +4517,24 @@ file = "kubejs/assets/kubejs/textures/item/ponderous_mechanism.png"
 hash = "d073cfc4be634a1d4f14cdcb6e49ea34636d3c2a1335c03d4dc843651de9d3cb"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/radiant_sheet.png"
+hash = "adb16f66013a11967cfbf301efe4d9f6b9a41e736cc0feec986163f4041af6a3"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/raw_aluminum.png"
 hash = "9f3b1fc8469723f492514dffd0de291bb6e03fc8ab3493a9f7cfc7fc34945b28"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shadow_sheet.png"
+hash = "d42a3d96834749c9a61d1189ed166de67ac429133c557781446661657c331542"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unprocessed_radiant_sheet.png"
+hash = "3cef59411291a8e0f8d119899f7429a297d3a9fb161eb3d4fe926e919351efcd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unprocessed_shadow_sheet.png"
+hash = "2e6f162c49e93999ba088ec5b3f9f68d4e6b6326e423b857e998fb0764272efe"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/zinc_grit.png"
@@ -5077,6 +5093,10 @@ file = "kubejs/assets/minecraft/textures/models/armor/wrought_iron_layer_2.png"
 hash = "793dbbf7c97d082e98cfa03b0f5eaff5e296757d7498665d60780157e47c8a3d"
 
 [[files]]
+file = "kubejs/assets/mowziesmobs/lang/en_us.json"
+hash = "b43dd9fe46b58405a9fc1798c2c7403ef0b2b675469e26d417a6e441135c56fa"
+
+[[files]]
 file = "kubejs/assets/quark/models/block/ladder_but_not_the_vanilla_one_so_resourcepacks_dont_override_it.json"
 hash = "423f90a43d3d25d889f34c5464f28c80111a3583d12dd0f756158bcf129ee232"
 
@@ -5198,7 +5218,7 @@ hash = "35e0cd42c34526c552bd9c4c507bacc541da9bb243d63c758f11ce3df399c3d8"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/lang/en_us.json"
-hash = "120a800f8f5e137029daef58c65cc73d827459db72e60ab590769e6233db1888"
+hash = "9d6a30e4241c0b1df9519ef7fd2a42e41af9458aba28dca72949d2bd2f232daa"
 
 [[files]]
 file = "kubejs/client_scripts/constants.js"
@@ -5225,6 +5245,10 @@ file = "kubejs/config/common.properties"
 hash = "122b66a2c12e7dcfbe3f1192156eb6ba976125374365ea39b9e21c2b2bbaa2a0"
 
 [[files]]
+file = "kubejs/data/botania/recipes/mana_infusion/mana_glue.json"
+hash = "c7991e3ead788eddf39b1eb24223f6206dc71cec6a5c539c8fe70d77db0a7e53"
+
+[[files]]
 file = "kubejs/data/create/recipes/crafting/appliances/dough.json"
 hash = "37b86286f14653e1bc534f9012020e6fd4f70a832d1e6cc20eabcdaa172b4fe8"
 
@@ -5243,6 +5267,18 @@ hash = "40a70411a342f59087da2bcd9d2611d3131dfd0409633ffd915f9b89671b64be"
 [[files]]
 file = "kubejs/data/create/recipes/mixing/dough_by_mixing.json"
 hash = "c4bdee7280ad6a0e1ae9bda4952fabb7ee82b2f06dbb1c19b4c868c8d2ca4e41"
+
+[[files]]
+file = "kubejs/data/create/recipes/mixing/magmatic_lava_from_cobble.json"
+hash = "73a23acf995e259c8dcf1e766dfbd6e4cf0a2108ca346ebf5a3eba83e23af290"
+
+[[files]]
+file = "kubejs/data/create/recipes/sequenced_assembly/radiant_sheet.json"
+hash = "67c02b7bef418fdddc6d4fa80ed318ff1a45f6229181b89cccce14212cb320a2"
+
+[[files]]
+file = "kubejs/data/create/recipes/sequenced_assembly/shadow_sheet.json"
+hash = "8c87b32781d1d6e7ada2a6dd6857188d7fb52b37c53196a150ef39a96cf91f89"
 
 [[files]]
 file = "kubejs/data/create/recipes/splashing/wheat_flour.json"
@@ -5382,7 +5418,7 @@ hash = "172f9b51d9a89edaa2ba1991635433b0cf15208ae540c8793ae928954f35f67d"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt"
-hash = "ac086c0ee78981dd22961545ca03dc6f1351531f6de05c5b7dd81f75a81cd2ea"
+hash = "dd89c64770f724524ff7b1bbfe3b57745526f7fae90da4520a9fea2670f31342"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/assembler.nbt"
@@ -5402,7 +5438,7 @@ hash = "931a7178c40f7bd13beed7187438ba0558e44154ebc0e442bbac95f69eb71289"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/diesel_generator.nbt"
-hash = "f957a947cc2091c8b505c81cff883baf3f1e847c539e91da99274ec4a9900da7"
+hash = "478bfb1b4934da237fd4c887b07cb87d27022d852332bad17770d33c7e64bfba"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/excavator.nbt"
@@ -5414,11 +5450,11 @@ hash = "bcda8713134cff22d1d51e873291dd9b4239ca555751e9e329bdead4038afa46"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/sawmill.nbt"
-hash = "fdd7f9febd75a317a692a7b15f5589f3c979199528fee5f558dad102894f6869"
+hash = "384504ed088f6959d4af57be5d9c2914b861a59493bd17ac3c31d8ae2cc3c898"
 
 [[files]]
 file = "kubejs/data/immersivepetroleum/recipes/coking/petcoke.json"
-hash = "ff5322cc938690cd8edce69419b0d5aaca1d215b72f5a42c1c396b928abe748d"
+hash = "0af906bed6af4cf474aabcd5d27acee6b8c79cedbe00ab10cd0990622c79d781"
 
 [[files]]
 file = "kubejs/data/immersivepetroleum/recipes/distillationtower/gasoline.json"
@@ -5502,7 +5538,7 @@ hash = "9d0bc70d6a9fdb6c4c52c32c122ff59d8ed69959af6a6bb205a1e8c74c6fd93a"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "e53612dc26429e2e9378b2f7aa0c2651b30a4e24ab874d633a3394882b1c5eb8"
+hash = "5f2887a7ff4949656593d4091a833994bea7e49510890c948eb881aabfbffc84"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
@@ -5510,7 +5546,7 @@ hash = "4e9048db3b66163ab129ba00165e6b0fbfa1a2ebb8fc57e8bf0cd6553b272eeb"
 
 [[files]]
 file = "kubejs/server_scripts/immersiveengineering.js"
-hash = "79e6bf91b091c17c6ff6506c08e8879b5c0c4b05f0719ebc4d70f4a5c9a43a5c"
+hash = "532fdd11fd26a96c6212d130ffd03c97ad5b430e8ea03370b65bef8c67f4a81d"
 
 [[files]]
 file = "kubejs/server_scripts/loot_tables.js"
@@ -5518,7 +5554,7 @@ hash = "b88a77bfc65450145d8907239b650ef14539b79031dd2c718641b3cefedaac9c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "68b804e247d943aa981031c4bef91ba37238fed16343194c824c6e672c022d57"
+hash = "dc545f822abde2a0069495408cb61c61a12641ae23b8b4b582225a952904d565"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -5534,7 +5570,7 @@ hash = "9b068afcf9ef5d0f8e9ca96c7efc96f02a5acf3fb35d37a8d61e6fd2132ffa21"
 
 [[files]]
 file = "kubejs/server_scripts/vs_clockwork.js"
-hash = "50e9faba2de95daa73cbb9b1959383ba090d9a985ee14a34d5fe0a738e3a1684"
+hash = "658c4fe3f2a24635c9a84aca3da78506396ac71f8c61f54a4bcc340f39924389"
 
 [[files]]
 file = "kubejs/server_scripts/wood_processing.js"
@@ -5550,7 +5586,7 @@ hash = "317ccaf0ca2145d5a91efaa37e02c0501ceb84006a8ec864d57bbb3ea52baa56"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids.js"
-hash = "c7989b49fd9bb8dd727016275a64fc5c2a5f859fc68bc4b0460dac2a175c5db6"
+hash = "9385312d41a80e6d9e02dbec95b5ba67a1ab38087443eac8a6c2b9b7eb1effcd"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"
@@ -5558,7 +5594,7 @@ hash = "67464f1c75b4a8f9d2718b958e3e144ec5e40308d2c939e8ecb6edbc89919113"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "d97b1f8704f2e22a657676b50f79fab32bcd51eed1a2669a45db941b4af02b10"
+hash = "8a735fe40a86388386c531adae85c977d22b8bb02721a52401f7d40d94cc30a0"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"

@@ -36,26 +36,39 @@ onEvent('recipes', event => {
     }).id('vs_clockwork:propellor_bearing')
 
     event.recipes.createMechanicalCrafting('vs_clockwork:phys_bearing', [
-        ' P ',
+        'BPB',
         'AGA',
-        ' C '
+        'BCB'
     ], {
         C: 'create:railway_casing',
+        B: 'create:brass_sheet',
         G: 'vs_clockwork:bluuguu',
         A: 'immersiveengineering:plate_iron',
         P: 'create:mechanical_bearing'
     }).id('vs_clockwork:phys_bearing')
 
     event.recipes.createMechanicalCrafting('vs_clockwork:physics_infuser', [
-        ' P ',
+        'BPB',
         'AGA',
-        ' C '
+        'BCB'
     ], {
         C: 'create:railway_casing',
+        B: 'create:brass_sheet',
         G: 'vs_clockwork:bluuguu',
         A: 'immersiveengineering:plate_iron',
         P: 'minecraft:glass'
     }).id('vs_clockwork:physics_infuser')
+
+    event.recipes.createMechanicalCrafting('vs_clockwork:ballooner', [
+        'AGA',
+        'GCG',
+        'BBB'
+    ], {
+        C: 'create:blaze_burner',
+        B: 'immersiveengineering:plate_copper',
+        G: 'minecraft:iron_bars',
+        A: 'immersiveengineering:stick_iron'
+    }).id('vs_clockwork:ballooner')
 
     event.shaped('vs_clockwork:redstone_resistor', [
         'P',

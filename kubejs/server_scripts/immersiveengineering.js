@@ -59,8 +59,8 @@ onEvent('recipes', event => {
         }
     }
 
-    global.addItemApplication(false, 'botania:dreamwood_planks', 'create:shadow_steel', 'create:shadow_steel_casing')
-    global.addItemApplication(false, 'botania:shimmerwood_planks', 'create:refined_radiance', 'create:refined_radiance_casing')
+    global.addItemApplication(false, 'botania:dreamwood_planks', 'kubejs:shadow_sheet', 'create:shadow_steel_casing')
+    global.addItemApplication(false, 'botania:shimmerwood_planks', 'kubejs:radiant_sheet', 'create:refined_radiance_casing')
 
     technicalCrafting('light', 'immersiveengineering:plate_iron')
     technicalCrafting('heavy', 'immersiveengineering:plate_steel')

@@ -1,0 +1,10 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "create:super_glue"
+  },
+  "output": {
+    "item": "vs_clockwork:bluperglue"
+  },
+  "mana": 6000
+}

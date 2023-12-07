@@ -5,12 +5,12 @@ onEvent('fluid.registry', event => {
         .displayName('Pitch')
     global.tagFluids.push('kubejs:pitch/minecraft:water')
 
-    event.create('raw_gasoline')
-        .stillTexture('kubejs:block/fluid/raw_gasoline_still')
-        .flowingTexture('kubejs:block/fluid/raw_gasoline_flow')
+    event.create('raw_diesel')
+        .stillTexture('kubejs:block/fluid/raw_diesel_still')
+        .flowingTexture('kubejs:block/fluid/raw_diesel_flow')
         .bucketColor(0x464646)
-        .displayName('Raw Gasoline')
-    global.tagFluids.push('kubejs:raw_gasoline/minecraft:water')
+        .displayName('Raw Diesel')
+    global.tagFluids.push('kubejs:raw_diesel/minecraft:water')
 
     event.create('bioplastic')
         .stillTexture('kubejs:block/fluid/bioplastic_still')
@@ -27,6 +27,7 @@ onEvent('fluid.registry', event => {
     global.tagFluids.push('kubejs:epoxyresin/minecraft:water')
 
     global.fluidsToAdd = [
+        'magmatic_lava/0x9E662B',
         'molten_iron/0xD8D8D8',
         'molten_gold/0xFAD64A',
         'molten_copper/0xE77C56',

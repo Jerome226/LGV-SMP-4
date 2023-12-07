@@ -1,0 +1,93 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:refined_radiance"
+  },
+  "transitionalItem": {
+    "item": "kubejs:unprocessed_radiant_sheet"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        },
+        {
+          "fluid": "kubejs:magmatic_lava",
+          "nbt": {},
+          "amount": 25
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        },
+        {
+          "item": "create:sturdy_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        },
+        {
+          "item": "immersiveengineering:hammer"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:unprocessed_radiant_sheet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:radiant_sheet"
+    }
+  ],
+  "loops": 1
+}

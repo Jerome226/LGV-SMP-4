@@ -7,6 +7,12 @@ onEvent('item.registry', event => {
     event.create('cured_latex').maxStackSize(64);
     event.create('creosote_sheet').maxStackSize(64);
 
+    event.create('shadow_sheet').maxStackSize(64);
+    event.create('unprocessed_shadow_sheet', 'create:sequenced_assembly').maxStackSize(1);
+
+    event.create('radiant_sheet').maxStackSize(64);
+    event.create('unprocessed_radiant_sheet', 'create:sequenced_assembly').maxStackSize(1);
+
     event.create('bioplast_sheet').maxStackSize(64);    
     event.create('epoxyplast_sheet').maxStackSize(64);
     
