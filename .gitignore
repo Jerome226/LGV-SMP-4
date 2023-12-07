@@ -15,6 +15,7 @@
 !/mods/**
 !index.toml
 !pack.toml
+/mods/.index/**
 !.packwizignore
 /config/jei/world/local/**
 /config/oculus.properties

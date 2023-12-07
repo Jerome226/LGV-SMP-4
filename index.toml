@@ -6,7 +6,7 @@ hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
 
 [[files]]
 file = ".gitignore"
-hash = "540db47dc058f48820ece4d75af42d911b357cbee90b86ad501dbdd81a5371b4"
+hash = "91c03398d0cc7fc39d216bb3e2ad9c1fd36eeb4e8247a700cf38b031d7199ed6"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -594,7 +594,7 @@ hash = "b68a95387df7e18fa134b40a273c65ae69e7bd66ffc406a5cd669da50bb5fde6"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "4da7fcb4234bde118109071d9175d4c2c6b436b1cf7709f5fd728df5b053fb08"
+hash = "69c8b276a812bf4edb53b875bd062e82217ef2d5568ec161f04ff5b15c13ab1b"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -5174,7 +5174,7 @@ hash = "35e0cd42c34526c552bd9c4c507bacc541da9bb243d63c758f11ce3df399c3d8"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/lang/en_us.json"
-hash = "4a0d170bb98df4072cf8fb162a3b8eec6952d338b4a70ee67908b6005ced546d"
+hash = "120a800f8f5e137029daef58c65cc73d827459db72e60ab590769e6233db1888"
 
 [[files]]
 file = "kubejs/client_scripts/constants.js"
@@ -5717,6 +5717,10 @@ file = "mods/blueprint-1.18.2-5.5.0.jar"
 hash = "872be3ec4986e7e416d3a8820c26302e617101be8bd44f71f6d41943e87a1a5e"
 
 [[files]]
+file = "mods/capybaramod-0.0.1.jar"
+hash = "ca763cc580880d3864aaa26d9f567f8e2ac27601ac2ac5a70dcee157d69122b6"
+
+[[files]]
 file = "mods/citadel-1.11.3-1.18.2.jar"
 hash = "4e4ae44dc790473390a14bc8d098f5a3876f236a2af9f12ab6be8cf2bcb72a7c"
 
@@ -5783,6 +5787,10 @@ metafile = true
 file = "mods/embeddium.pw.toml"
 hash = "2f8feb80357a61faa2722d63d4b70d3e81b4603041e281a7e6ff91f610d9901c"
 metafile = true
+
+[[files]]
+file = "mods/ends_delight-1.18.2-1.2.jar"
+hash = "d66c746eca54992e7e56ec2a099f0c8e580be905161c7e0c489a812a64150345"
 
 [[files]]
 file = "mods/eureka-1.1.0-beta.10.jar"
@@ -5877,6 +5885,11 @@ hash = "79df41e1270f3619a94b760a336c5d995e90b551945886d225ad42126c850ac6"
 [[files]]
 file = "mods/modnametooltip-1.18.1-1.18.0.jar"
 hash = "b7a11414d83a6da36d854540b762151095e0f3f7eeac4ef166150cca466d323e"
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
+metafile = true
 
 [[files]]
 file = "mods/mowziesmobs-1.5.32.jar"

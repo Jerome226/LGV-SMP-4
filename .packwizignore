@@ -16,6 +16,7 @@
 !/mods/**
 !index.toml
 !pack.toml
+/mods/.index/**
 /config/jei/world/local/**
 /config/oculus.properties
 
@@ -31,3 +32,4 @@
 /mods/embeddiumplus-1.18.2**.jar
 /mods/modelfix-**.jar
 /mods/torohealth-1.18-forge**.jar
+/mods/MouseTweaks-forge-**.jar
