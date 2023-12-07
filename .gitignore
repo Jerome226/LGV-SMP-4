@@ -1,6 +1,7 @@
 # ignore everything
 *
 !*/
+temp/
 
 # unignore github and curseforge  files
 !.gitignore
@@ -8,6 +9,7 @@
 !.gitattributes
 !.github/**
 !pakku**
+!actions/
 
 !/config/**
 !/defaultconfigs/**
