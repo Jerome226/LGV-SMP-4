@@ -449,6 +449,14 @@ file = "config/dynamictrees-common.toml"
 hash = "d9a7d1c6aa501df239a0a85be39c49f4ff960887f3a592dd980f7071f2142129"
 
 [[files]]
+file = "config/embeddium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "8ad2c3689d68af9b01a433a39cd33538dbee4a1b346fdd5b7dc10e98717fc912"
+
+[[files]]
 file = "config/embeddiumplus.toml"
 hash = "938abe3134753f076623c40f9b3499970a676009502d33d9cabe65a121025efc"
 
@@ -629,14 +637,6 @@ file = "config/railways-common.toml"
 hash = "692fc2bba38852583e545811e9c13c7b11a47fe2ee8de14001568f5ca29ebef5"
 
 [[files]]
-file = "config/rubidium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
-
-[[files]]
-file = "config/rubidium-options.json"
-hash = "8ad2c3689d68af9b01a433a39cd33538dbee4a1b346fdd5b7dc10e98717fc912"
-
-[[files]]
 file = "config/sdrp-common.json"
 hash = "0e16181d26cfb54339cf414947a7520ee31f08c68aa9a65444a564d972cedec0"
 
@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -806,7 +806,7 @@ hash = "cace611cfc36e839db142ed249478e77c87b212cec3e0513d3eddad1c20e9ede"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "4ec05bd9f8d7a5c110889828dfd2b8c8d507ecb403c37cf5ddb6c119414d5d81"
+hash = "b43fa77f269e52fc5b00564ed958c50e4ccefad802331c2fc3322da9c6a15420"
 
 [[files]]
 file = "defaultconfigs/ftbessentials.snbt"
@@ -5884,6 +5884,10 @@ hash = "144cf55975541c04470124f0333e481e4a70e27afd8571b57797396b42a01d4f"
 [[files]]
 file = "mods/ftb-teams-forge-1802.2.11-build.107.jar"
 hash = "e026cb1e2af513b590c2cf7fbacfe69f05a52e1c238eeb272e51b45bdccd143b"
+
+[[files]]
+file = "mods/ftbbackups2-forge-1.18.2-1.0.23.jar"
+hash = "dd356fc2c41409bd18a0f8c6240b1a14dcdbefbbec26297a53248d4b8086d75a"
 
 [[files]]
 file = "mods/geckolib-forge-1.18-3.0.57.jar"
