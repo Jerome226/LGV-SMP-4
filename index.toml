@@ -5831,10 +5831,6 @@ hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
 metafile = true
 
 [[files]]
-file = "mods/embeddium-0.2.11+mc1.18.2.jar"
-hash = "c334084a1821d1958992a46cb6c39279d38786b09fe29eb99f1134a6b883f10a"
-
-[[files]]
 file = "mods/embeddium-plus.pw.toml"
 hash = "f55cbf1ace7f96a52e35dc2478abc2832a34a92dd7dfa47521fd6d63661fa328"
 metafile = true
