@@ -9,6 +9,10 @@ file = ".gitignore"
 hash = "91c03398d0cc7fc39d216bb3e2ad9c1fd36eeb4e8247a700cf38b031d7199ed6"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
 hash = "4244fd8e77b0970dc9ee907bbf8838b4f2fec6f43b86dbe6e16066eab0528ed7"
 
@@ -465,6 +469,14 @@ file = "config/farmersrespite-common.toml"
 hash = "500466fed27e708ad35176a422a93bb562500258b37fbf80bdfdcbccbc7a8f46"
 
 [[files]]
+file = "config/fastbench.cfg"
+hash = "c0f72d2d60243a3944eaf7a477fa2673411a66f6dcc47c0f5d7eeb3b828e2756"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "890500f812a05a26b22fcaebb8bb19116371f60ec479ee5156550d8cdd95ae64"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
 
@@ -542,7 +554,7 @@ hash = "700d1b17c7a6567a766e52c000dd3d763b3abec122b482076123cd8e0ca29d78"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "f6839c55e8e74047becc740e43796610daed11b8bdf3c2d4eae298490da72505"
+hash = "d77bc0b6d3074c32ab3b9cdb4e283cac2c5d749b1b36756af226974e71b47a47"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -554,7 +566,7 @@ hash = "82d25ad2e57e63c06c7f8e14814991accd1fb3a8e2bf70d1a98b3b47471e93e6"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "5dbecf8330db063deb061bf52478e95d7fe2b73bf188d9d45e7d931f9c22ded6"
+hash = "15ae7bd09746a4fe666d2318d4fead7229ecadac52ee3360c8614b8cccb0db48"
 
 [[files]]
 file = "config/jei/world/server/Max___h_e2b046b6/bookmarks.ini"
@@ -579,6 +591,18 @@ hash = "4ab4eec62044646cfde7d638b4c51b0c54f33a148dbb8dc59e1cd3db42d5e51d"
 [[files]]
 file = "config/modnametooltip-client.toml"
 hash = "4224a9a1972b5007d81ffc9c634f120448367840c191bcdca6cf23a5fa2d539c"
+
+[[files]]
+file = "config/mowziesmobs-client.toml"
+hash = "7347711c01c0b695228257860bb6c3d94660e0206a7290e298095d1e930056e1"
+
+[[files]]
+file = "config/mowziesmobs-common.toml"
+hash = "1633e219edaa8057ff758bf7e3a6176a73a7d13f80e82e9d8cc50e6937a429dc"
+
+[[files]]
+file = "config/nethersdelight-common.toml"
+hash = "500466fed27e708ad35176a422a93bb562500258b37fbf80bdfdcbccbc7a8f46"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -742,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -5715,10 +5739,6 @@ hash = "29f4308e8115cfaaff9ad1977d203f2cf4f18fb8447f1a4848c7f85cb049658f"
 [[files]]
 file = "mods/blueprint-1.18.2-5.5.0.jar"
 hash = "872be3ec4986e7e416d3a8820c26302e617101be8bd44f71f6d41943e87a1a5e"
-
-[[files]]
-file = "mods/capybaramod-0.0.1.jar"
-hash = "ca763cc580880d3864aaa26d9f567f8e2ac27601ac2ac5a70dcee157d69122b6"
 
 [[files]]
 file = "mods/citadel-1.11.3-1.18.2.jar"
