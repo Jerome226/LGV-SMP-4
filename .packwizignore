@@ -1,14 +1,6 @@
 # ignore everything
 *
 !*/
-
-# unignore github and curseforge  files
-!.gitignore
-!config.json
-!.gitattributes
-!.github/**
-!pakku**
-
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
@@ -17,6 +9,7 @@
 !index.toml
 !pack.toml
 /mods/.index/**
+!servers.dat
 /config/jei/world/local/**
 /config/oculus.properties
 

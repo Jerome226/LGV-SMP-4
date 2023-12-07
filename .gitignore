@@ -19,5 +19,6 @@ temp/
 !pack.toml
 /mods/.index/**
 !.packwizignore
+!servers.dat
 /config/jei/world/local/**
 /config/oculus.properties

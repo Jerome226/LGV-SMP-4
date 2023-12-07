@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitattributes"
-hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
-
-[[files]]
-file = ".gitignore"
-hash = "91c03398d0cc7fc39d216bb3e2ad9c1fd36eeb4e8247a700cf38b031d7199ed6"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -6024,3 +6016,7 @@ hash = "89c791a420ca5a65e8277d61ed93e147c467236435cb3a4bcec4c3d430ebe895"
 [[files]]
 file = "mods/xercapaint-1.18.2-1.0.2.jar"
 hash = "3c40d8a1f55e0f2f22b79e5b47f5ecee1d88c874f418897702beef012ea8e178"
+
+[[files]]
+file = "servers.dat"
+hash = "dc433ed42aad0a27ffcc58223e8e154fb47bebded2f034387c894c3a0e022543"
