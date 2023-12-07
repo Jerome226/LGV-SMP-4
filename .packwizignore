@@ -28,8 +28,7 @@
 /mods/SimpleDiscordRichPresence-forge**.jar
 /mods/controllable-0.17.0**.jar
 /mods/dynamiclightsreforged-1.18.2**.jar
-/mods/embeddium-0.2.12**.jar
-/mods/embeddiumplus-1.18.2**.jar
+/mods/embeddium-*.jar
 /mods/modelfix-**.jar
 /mods/torohealth-1.18-forge**.jar
 /mods/MouseTweaks-forge-**.jar
