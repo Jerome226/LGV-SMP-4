@@ -1,12 +1,13 @@
 import { existsSync, mkdirSync } from "fs";
 
 if(!existsSync("./temp")) mkdirSync("./temp");
-console.log(Bun.main)
 
 // Download Packwiz Installer
 
 await fetch("https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar")
-  .then(it => it.blob()).then(it => Bun.write("./temp/packwiz.jar", it));
+  .then(it => it.blob()).then(it => Bun.write("./temp/packwiz-installer-bootstrap.jar", it));
+
+console.log("Downloaded packwiz");
 
 // Download server
 
@@ -24,7 +25,7 @@ if(!process.argv.slice(2).includes("--no-server")) {
 }
 
 Bun.spawnSync({
-  cmd: ["java", "-jar", "packwiz-installer-bootstrap.jar", "-g", "--side", "server", "./pack.toml"],
+  cmd: ["java", "-jar", "packwiz-installer-bootstrap.jar", "-g", "--side", "server", "../pack.toml"],
   stdout: "inherit",
   stderr: "inherit",
   cwd: "./temp/"
