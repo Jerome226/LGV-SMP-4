@@ -798,7 +798,7 @@ hash = "cace611cfc36e839db142ed249478e77c87b212cec3e0513d3eddad1c20e9ede"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "b43fa77f269e52fc5b00564ed958c50e4ccefad802331c2fc3322da9c6a15420"
+hash = "e7581102869e3ece88a833d4522974634f59ea30647f407c69539937cc400405"
 
 [[files]]
 file = "defaultconfigs/ftbessentials.snbt"
@@ -5753,6 +5753,10 @@ file = "mods/actuallycompatible-0.1.2.jar"
 hash = "adc7aa1d8103bd9124cc0500fd1bd657de29023e8fdfb2ef2d8a4f550b00e0f0"
 
 [[files]]
+file = "mods/adaptive_performance_tweaks_1.18.2-10.0.0.jar"
+hash = "be3c1ca0a258f744f4a4b323ed8a0cd2960854c7fd299a3440eeeede2fafd3c3"
+
+[[files]]
 file = "mods/alexsmobs-1.18.6.jar"
 hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
 
@@ -5912,6 +5916,10 @@ hash = "a3fdde9433d75ac1f5ae72d3f5b74d2dfb3a59d8b28bad18a5c526cb32f814d0"
 [[files]]
 file = "mods/kubejs-immersive-engineering-1802.2.1-build.35.jar"
 hash = "8af424346160d9fc5daa8525e1b098e1955427267ca62bdddf46a6cb2262f138"
+
+[[files]]
+file = "mods/lag_removal-1.1.1-1.18.jar.jar"
+hash = "c399d2faddaa2ec53419b6c21ef8d7859bc0779d6be0d5830a5976da8d7d6523"
 
 [[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
