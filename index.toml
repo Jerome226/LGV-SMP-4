@@ -509,6 +509,10 @@ file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
+
+[[files]]
 file = "config/gamepad_profiles/gamepad_profile_0"
 hash = "1d937d91dee454b8cecc5569f12e7b15fc561e2ada290aeae1c7695d42f8e518"
 
@@ -531,6 +535,10 @@ hash = "289a81412fea2fc6c49884fc5f65390a2085db1775c37517aa916979b182ff86"
 [[files]]
 file = "config/immersivepetroleum-client.toml"
 hash = "5583f56385a21d61702341d9aed09d5464e6a464e4bffce925ca16e74eaf8f8f"
+
+[[files]]
+file = "config/itshallnottick-common.toml"
+hash = "ffaef85bb40792842271153b217d11d1e5c7d691c6af7ee80f0cd8734aa2e948"
 
 [[files]]
 file = "config/jade-addons.toml"
@@ -758,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -775,6 +783,10 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
 hash = "936cc6909e95faefe50b6aa94199e3c988fa027688f7860ac6040bcd0dcdf735"
+
+[[files]]
+file = "defaultconfigs/controllable-server.toml"
+hash = "ac99ea6d5d4435ddc05c0ba27ff47f527a340e4fda56f4cb7375c46f4124f72b"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -802,11 +814,11 @@ hash = "e7581102869e3ece88a833d4522974634f59ea30647f407c69539937cc400405"
 
 [[files]]
 file = "defaultconfigs/ftbessentials.snbt"
-hash = "5e3bca8261b2e14100bb0f320bd784b092f20b3b73453b51c2196af302e8bdcb"
+hash = "1539a3d0619e296cae76f04c18816a8e206806df884430b28488ceff875a57f2"
 
 [[files]]
 file = "defaultconfigs/ftbranks/README.txt"
-hash = "eb77dcd132f8f6d174c2c67c3d6551aa321b763ac0ceb76c7c39af0c5c5e9c3b"
+hash = "d5a5902f46892f8d919ddd35372ef2abcedcb6869371890689ad0c6985561a5f"
 
 [[files]]
 file = "defaultconfigs/ftbranks/players.snbt"
@@ -5689,6 +5701,10 @@ file = "mods/ImmersivePetroleum-1.18.2-4.2.0-22.jar"
 hash = "ee8aba837940de8e140a1687f6b4bed05a175038aae9a1453f8cb69c94640bc1"
 
 [[files]]
+file = "mods/ItShallNotTick-1.0.22-build.34.jar"
+hash = "c8241779fe9b80588ce05d7872f6462dec7c024d15c594f5a6d30fc5611c5be9"
+
+[[files]]
 file = "mods/Jade-1.18.2-forge-5.3.0.jar"
 hash = "397d61167df4531201bffa7c3ee030dcaa6d8ba9a6389b350f3ce5df66d1546e"
 
@@ -5916,10 +5932,6 @@ hash = "a3fdde9433d75ac1f5ae72d3f5b74d2dfb3a59d8b28bad18a5c526cb32f814d0"
 [[files]]
 file = "mods/kubejs-immersive-engineering-1802.2.1-build.35.jar"
 hash = "8af424346160d9fc5daa8525e1b098e1955427267ca62bdddf46a6cb2262f138"
-
-[[files]]
-file = "mods/lag_removal-1.1.1-1.18.jar.jar"
-hash = "c399d2faddaa2ec53419b6c21ef8d7859bc0779d6be0d5830a5976da8d7d6523"
 
 [[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"

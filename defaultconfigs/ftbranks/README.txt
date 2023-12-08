@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Fri Dec 01 21:26:34 EST 2023
+Last README file update: Thu Dec 07 22:54:14 EST 2023
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -60,6 +60,9 @@ command.attribute.target.attribute.modifier.value.get
 command.attribute.target.attribute.modifier.value.get.uuid
 command.attribute.target.attribute.modifier.value.get.uuid.scale
 command.back
+command.backup
+command.backup.command
+command.backup.command.name
 command.bossbar
 command.bossbar.add
 command.bossbar.add.id
@@ -946,8 +949,6 @@ command.gamerule.naturalRegeneration
 command.gamerule.naturalRegeneration.value
 command.gamerule.playersSleepingPercentage
 command.gamerule.playersSleepingPercentage.value
-command.gamerule.pvp
-command.gamerule.pvp.value
 command.gamerule.randomTickSpeed
 command.gamerule.randomTickSpeed.value
 command.gamerule.reducedDebugInfo
@@ -1272,6 +1273,9 @@ command.particle.name.pos.delta.speed.count.force
 command.particle.name.pos.delta.speed.count.force.viewers
 command.particle.name.pos.delta.speed.count.normal
 command.particle.name.pos.delta.speed.count.normal.viewers
+command.placebo
+command.placebo.serialize_loot_table
+command.placebo.serialize_loot_table.loot_table
 command.placefeature
 command.placefeature.feature
 command.placefeature.feature.pos
