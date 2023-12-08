@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -801,6 +801,10 @@ file = "defaultconfigs/curios-server.toml"
 hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
 
 [[files]]
+file = "defaultconfigs/fixmyspawnr-server.toml"
+hash = "d90078295eaeb47e439013754add7775d3d27f61263e5748d7fff7769f26a0af"
+
+[[files]]
 file = "defaultconfigs/forge-server.toml"
 hash = "f41633ff6943f713ad78779e4bc33c91b9e89869b3c0f5fe9c139bd31717f619"
 
@@ -818,7 +822,7 @@ hash = "1539a3d0619e296cae76f04c18816a8e206806df884430b28488ceff875a57f2"
 
 [[files]]
 file = "defaultconfigs/ftbranks/README.txt"
-hash = "d5a5902f46892f8d919ddd35372ef2abcedcb6869371890689ad0c6985561a5f"
+hash = "48fd8d7d4352b5893e10d04ead2ccb3ba051e1357db627282c747adfa1cfd2a5"
 
 [[files]]
 file = "defaultconfigs/ftbranks/players.snbt"
@@ -5683,6 +5687,10 @@ hash = "094877c11e159d155ef92be55f7fc5b9be59c6a9125b8f190ead1b2972ff6745"
 [[files]]
 file = "mods/FastWorkbench-1.18.2-6.1.1.jar"
 hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"
+
+[[files]]
+file = "mods/FixMySpawnR-forge-1.18.2-1.0.0.jar"
+hash = "a94910e388fed4dce7eed621ced6fd2d8421e4697607757b3e51eb3f694147f3"
 
 [[files]]
 file = "mods/FramedBlocks-5.11.4.jar"
