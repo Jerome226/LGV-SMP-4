@@ -5778,27 +5778,27 @@ hash = "adc7aa1d8103bd9124cc0500fd1bd657de29023e8fdfb2ef2d8a4f550b00e0f0"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
-hash = "53369b36756bdeacfd5da02217a597b7514739e41a94e3ddb0ef24c1291c1a29"
+hash = "aeb55dff763eae805823cd719cf6861d0a126d49faf043d942af796c9e68555d"
 metafile = true
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
-hash = "1ce7a2c40adfd12ccb03a557ffe5afdcdd8f11542cc13723e39099295bfd8c6e"
+hash = "94ed5c32db9e9047b6dbf27465f7eb109c92698b55cdb987bddfebaf6f35be7c"
 metafile = true
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-items.pw.toml"
-hash = "c6b2ff831d4b5accd207f2b821948e698913a718dee5ded51f004a74dbd3a667"
+hash = "2a9fdd7a17e1069368c28798ae5b7830ff9d0ccba9e032d0c03555546e02c8ad"
 metafile = true
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-player.pw.toml"
-hash = "53cf0b2a5d492d5be921b547ddccebc0410b858bf53021583e9696a35c903fa9"
+hash = "38405050b499b0dfb00270effea7f6614cfee1432ed4baca0f44b28367102308"
 metafile = true
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "3dd15557a529692cc2db2c066bcf31674efe13071777030be1fec88e880a31be"
+hash = "dab244b41ad3cee39d7aec807708b15281268e4ce9ab35f4d1fde62a611ea499"
 metafile = true
 
 [[files]]
