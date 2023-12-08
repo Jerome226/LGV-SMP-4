@@ -5777,6 +5777,31 @@ file = "mods/actuallycompatible-0.1.2.jar"
 hash = "adc7aa1d8103bd9124cc0500fd1bd657de29023e8fdfb2ef2d8a4f550b00e0f0"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "53369b36756bdeacfd5da02217a597b7514739e41a94e3ddb0ef24c1291c1a29"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "1ce7a2c40adfd12ccb03a557ffe5afdcdd8f11542cc13723e39099295bfd8c6e"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "c6b2ff831d4b5accd207f2b821948e698913a718dee5ded51f004a74dbd3a667"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "53cf0b2a5d492d5be921b547ddccebc0410b858bf53021583e9696a35c903fa9"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "3dd15557a529692cc2db2c066bcf31674efe13071777030be1fec88e880a31be"
+metafile = true
+
+[[files]]
 file = "mods/adaptive_performance_tweaks_1.18.2-10.0.0.jar"
 hash = "be3c1ca0a258f744f4a4b323ed8a0cd2960854c7fd299a3440eeeede2fafd3c3"
 
