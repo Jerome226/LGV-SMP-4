@@ -5333,6 +5333,10 @@ file = "kubejs/data/createaddition/recipes/compacting/cake_base.json"
 hash = "3e4868a7cbfcad4a6539c62bcd1592467fcc305ac531f1b48051d34535ab491a"
 
 [[files]]
+file = "kubejs/data/createaddition/recipes/crafting/modular_accumulator.json"
+hash = "b6e15465d91a7701bfaf8cf76cc986e186ad97f02b731ff4ac623b3ae7f4b7fe"
+
+[[files]]
 file = "kubejs/data/createaddition/recipes/crafting/portable_energy_interface.json"
 hash = "233b76c0816ee5bf5d2271cdd92a958001ce7d07efe2ac4f2e724e5d8497e1a1"
 
