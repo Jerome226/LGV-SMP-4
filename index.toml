@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -4469,6 +4469,10 @@ file = "kubejs/assets/kubejs/textures/block/thermionic_engineering_block.png"
 hash = "13b37ef3b1349498cbd0c9c4ed73f3dc3cd68ebc5feaf800d5fc8a0336222587"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/aluminum_frame.png"
+hash = "bc9df253dea78a13c86f724aa6a2533ad98df1960e8df69bfe2ec2ab040d1190"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/aluminum_mechanical_component.png"
 hash = "2876dfbc4329d043fa59e1ae478064461585b78cd4d6e59980d2a2dc79bc1702"
 
@@ -4517,6 +4521,10 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_ponderous_mechanism.png"
 hash = "87c66f9c77ddfc390146488921df5d104edb985cdd9ff9f694211e7bb54bcd12"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/iron_frame.png"
+hash = "b39774a11492b3b9786c6ec846951071ca82a9e3b6e1f45e4dc44502875b7a5c"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/light_mechanism.png"
 hash = "10c65fdabdd8957f93814aa90ddfb787d1e21bc6e880d85b7e57d93800841590"
 
@@ -4539,6 +4547,10 @@ hash = "9f3b1fc8469723f492514dffd0de291bb6e03fc8ab3493a9f7cfc7fc34945b28"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/shadow_sheet.png"
 hash = "d42a3d96834749c9a61d1189ed166de67ac429133c557781446661657c331542"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_frame.png"
+hash = "b3e5cce54af055a7cae1f588ce53efe2d09e0b9fabd2e88a5bddcaac4c12a490"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unprocessed_radiant_sheet.png"
@@ -5453,6 +5465,10 @@ file = "kubejs/data/immersiveengineering/recipes/mixing/biomass_from_sawdust.jso
 hash = "ebdcfea4f6088936793d5ba66e992e96f60405cf99f0de882548205adc6f1e7c"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/recipes/mixing/physics_core.json"
+hash = "92c63afabfc1502c3df2ba3445a9f862a4feaefa0a4a935322c4d1ca0a47ef38"
+
+[[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt"
 hash = "dd89c64770f724524ff7b1bbfe3b57745526f7fae90da4520a9fea2670f31342"
 
@@ -5582,7 +5598,7 @@ hash = "4e9048db3b66163ab129ba00165e6b0fbfa1a2ebb8fc57e8bf0cd6553b272eeb"
 
 [[files]]
 file = "kubejs/server_scripts/immersiveengineering.js"
-hash = "532fdd11fd26a96c6212d130ffd03c97ad5b430e8ea03370b65bef8c67f4a81d"
+hash = "a1872cc6bd7d42a6eeb04972df7f8594d26bb62a1ae1b1959d8c0f4c474881cd"
 
 [[files]]
 file = "kubejs/server_scripts/loot_tables.js"
@@ -5590,7 +5606,7 @@ hash = "b88a77bfc65450145d8907239b650ef14539b79031dd2c718641b3cefedaac9c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "2eac203472566818b9397440b7c16760dbf13a3b862b61f0a0cfc50c24c50565"
+hash = "0500dd59a1d2f3c2673869944265e44ad8d7ec55dd5cfc4da2516aa160908e02"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -5630,11 +5646,11 @@ hash = "67464f1c75b4a8f9d2718b958e3e144ec5e40308d2c939e8ecb6edbc89919113"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "e4add165b71d73b6e049c6e324506b23d5d165de62b1366cc1bd21afe8ae8253"
+hash = "780ea9fb880851e0ca92cbbcab8d40140c33f2aa3cd4d8b8bf54bc557af96226"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "4281a58d6aa2aae8e2f3992417a01e63e4745e3aa79efbedc31c7de579746918"
+hash = "f1fa9301951cceadfe6e2ed4809a121f5eda9da17a4519072ec9b8b82d0acb74"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

@@ -1,4 +1,5 @@
 global.removeAndHide.push(
+    'kubejs:bio_slag',
     'quark:golden_apple_crate',
     'quark:apple_crate',
     'quark:potato_crate',

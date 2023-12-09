@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+	  {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "tag": "forge:slimeballs"
+    },
+    {
+      "fluidTag": "kubejs:water",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "vs_clockwork:bluuguu",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

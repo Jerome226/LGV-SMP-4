@@ -4,6 +4,7 @@ onEvent('recipes', event => {
 
 	//temp no eye because no finished
 	global.recipesOutputToRemove.push(
+		'botania:alfheim_portal',
 		'minecraft:beacon',
 		'minecraft:ender_eye'
 	)
