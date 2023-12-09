@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -4521,6 +4521,10 @@ file = "kubejs/assets/kubejs/textures/item/light_mechanism.png"
 hash = "10c65fdabdd8957f93814aa90ddfb787d1e21bc6e880d85b7e57d93800841590"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/polished_quartz.png"
+hash = "915f8e265bff7ac6ff4e1ccdabb074f3750947c01711f70dc7f8848ae254e871"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/ponderous_mechanism.png"
 hash = "d073cfc4be634a1d4f14cdcb6e49ea34636d3c2a1335c03d4dc843651de9d3cb"
 
@@ -5269,8 +5273,24 @@ file = "kubejs/data/create/recipes/crushing/veridium_recycling.json"
 hash = "b8e2127af60d5607513f90e79c4789d6641d34b130df8514c6211ec1c1063855"
 
 [[files]]
+file = "kubejs/data/create/recipes/item_application/balloon_casing_from_log.json"
+hash = "5ca7caff74b19f1a1b24471e78186523080c75208064c3e3f663b5477f2eec7f"
+
+[[files]]
+file = "kubejs/data/create/recipes/item_application/balloon_casing_from_wood.json"
+hash = "465de7edf860789674ce2f1bedede779ee07d3a92f389036462f93314992be98"
+
+[[files]]
 file = "kubejs/data/create/recipes/item_application/brass_casing_from_treated_wood.json"
 hash = "40a70411a342f59087da2bcd9d2611d3131dfd0409633ffd915f9b89671b64be"
+
+[[files]]
+file = "kubejs/data/create/recipes/item_application/copper_casing_from_log.json"
+hash = "e4167b6abfb20327d7ffe7758856d75a0a57927cbd8165e07668a05e5e95b764"
+
+[[files]]
+file = "kubejs/data/create/recipes/item_application/copper_casing_from_wood.json"
+hash = "004f328f7a4a8c119a29ffc1825e60ebfd01d6557a6286d67c7312eaa9fa7d07"
 
 [[files]]
 file = "kubejs/data/create/recipes/mixing/dough_by_mixing.json"
@@ -5279,6 +5299,10 @@ hash = "c4bdee7280ad6a0e1ae9bda4952fabb7ee82b2f06dbb1c19b4c868c8d2ca4e41"
 [[files]]
 file = "kubejs/data/create/recipes/mixing/magmatic_lava_from_cobble.json"
 hash = "73a23acf995e259c8dcf1e766dfbd6e4cf0a2108ca346ebf5a3eba83e23af290"
+
+[[files]]
+file = "kubejs/data/create/recipes/sandpaper_polishing/nether_quartz.json"
+hash = "8b15bf133d5e550b166abd56ff983772cbd6a461dec293603b69d328076bec95"
 
 [[files]]
 file = "kubejs/data/create/recipes/sequenced_assembly/radiant_sheet.json"
@@ -5357,12 +5381,16 @@ file = "kubejs/data/immersiveengineering/recipes/alloysmelter/andesite_alloy.jso
 hash = "1801b7ee2750bd82a6bd006abd72dbdcb7ef2ce21f2ce2e0468166cb42d64d24"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/recipes/blueprint/circuit_board.json"
+hash = "56c036ce559f95a56948b35ea8c260462113a24f9eed578ec9a21e4b9d203aa5"
+
+[[files]]
 file = "kubejs/data/immersiveengineering/recipes/blueprint/component_aluminum.json"
 hash = "ddf90002f072a29ef1d3a76c49f6ac74ccc81fa86350aeaed9d9544dbf975e5b"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/blueprint/component_electronic.json"
-hash = "23d7ddf4d502f4111822ae4c5531c5e41e23b2febb9ee2c88533316b5b071338"
+hash = "9a5738e62211ace85f7aa35b1957a237ed1f6a8804d6f898bb4bff3dc3e303de"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/blueprint/component_electronic_adv.json"
@@ -5422,7 +5450,7 @@ hash = "84149d2f05371b249a18e53c50cb6c89897ba9717ad352b7f6b728755f4b96e7"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/mixing/biomass_from_sawdust.json"
-hash = "172f9b51d9a89edaa2ba1991635433b0cf15208ae540c8793ae928954f35f67d"
+hash = "ebdcfea4f6088936793d5ba66e992e96f60405cf99f0de882548205adc6f1e7c"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/structures/multiblocks/arcfurnace.nbt"
@@ -5538,7 +5566,7 @@ hash = "e2ff7034c3be98983f89e3a56899a31d2c100c95d0506dbcc257849651cb81c2"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "b54b4794d35e2955afb232e9eab436d645e7a8c593b3fab7400189bf32620b1e"
+hash = "a21c6965aa5b517b26d656716080b5d6a986033bd2f0311796b893582efa933b"
 
 [[files]]
 file = "kubejs/server_scripts/alloying.js"
@@ -5566,15 +5594,15 @@ hash = "2eac203472566818b9397440b7c16760dbf13a3b862b61f0a0cfc50c24c50565"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "cd5375c75b6453eea519b595dd510982bb3fca6b6c3c3145a4b7d1a856df4683"
+hash = "6414213a40a050b2e2c01c0b4558a5dac14a008497d6dd16f81e939a0ea15250"
 
 [[files]]
 file = "kubejs/server_scripts/tags_functions.js"
-hash = "87da909ebba07fe9bfca583452ae6c06bc75d30b3980db5ab74fd927235e8d93"
+hash = "617f8d13bbbf0476d10eeea922881a8aa21e20d35cd66f0ea3d94a9f6fd61014"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
-hash = "5b857c0ee255015cf3e942bc74ab8b95706a93ad3a23c4652b64a86980b6f126"
+hash = "420f1c286f5ea2e8003614f714f94f6d3d33ea19585f97f70d016520a175c4ec"
 
 [[files]]
 file = "kubejs/server_scripts/vs_clockwork.js"
@@ -5582,7 +5610,7 @@ hash = "658c4fe3f2a24635c9a84aca3da78506396ac71f8c61f54a4bcc340f39924389"
 
 [[files]]
 file = "kubejs/server_scripts/wood_processing.js"
-hash = "f6162f502eb90ff73f45b5e7155913c5f3adda228575b1fd0a0a3fc37d25d418"
+hash = "910831a8bab74fb449aa70448a6115703e76564bb987e76bb2a7329326419dd6"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
@@ -5602,7 +5630,7 @@ hash = "67464f1c75b4a8f9d2718b958e3e144ec5e40308d2c939e8ecb6edbc89919113"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "8a735fe40a86388386c531adae85c977d22b8bb02721a52401f7d40d94cc30a0"
+hash = "e4add165b71d73b6e049c6e324506b23d5d165de62b1366cc1bd21afe8ae8253"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"

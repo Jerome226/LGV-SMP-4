@@ -26,4 +26,9 @@ onEvent('recipes', event => {
         wood('quark', i)
     });
 
+    global.botaniaWoodTypes.forEach(i => {
+        wood('botania', i)
+    });
+
+
 })

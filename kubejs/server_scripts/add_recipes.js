@@ -191,7 +191,7 @@ onEvent('recipes', event => {
             "type": "immersiveengineering:crusher",
             "secondaries": [
                 {
-                    "chance": 0.5,
+                    "chance": 0.25,
                     "output": {
                         "item": output
                     }

@@ -2,6 +2,8 @@ onEvent('item.registry', event => {
     event.create('raw_aluminum').maxStackSize(64);
     
     event.create('zinc_grit').maxStackSize(64);
+    event.create('polished_quartz').maxStackSize(64);
+
     event.create('bio_fuel').maxStackSize(64);
     event.create('bioslag').maxStackSize(64);
     event.create('cured_latex').maxStackSize(64);

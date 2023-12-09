@@ -1,6 +1,6 @@
 onEvent('tags.blocks', event => {
-    event.remove(`create:passive_boiler_heaters`, 'minecraft:campfire')
-    event.remove(`create:passive_boiler_heaters`, 'minecraft:soul_campfire')
+    event.remove('create:passive_boiler_heaters', 'minecraft:campfire')
+    event.remove('create:passive_boiler_heaters', 'minecraft:soul_campfire')
 })
 
 onEvent('tags.fluids', event => {

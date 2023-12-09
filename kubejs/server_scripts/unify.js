@@ -117,7 +117,7 @@ onEvent('recipes', event => {
         */
         removeDust(metal)
         global.crusher(ingot, dust, 1)
-        global.crusher(crushed, dust, 3, secondDust, 0.25)
+        global.crusher(crushed, dust, 3, secondDust, 0.15)
 
         /*
             Crushed Ore

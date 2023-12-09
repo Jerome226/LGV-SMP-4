@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:polished_quartz"
+    }
+  ]
+}
