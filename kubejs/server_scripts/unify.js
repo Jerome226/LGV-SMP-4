@@ -86,7 +86,7 @@ onEvent('recipes', event => {
         removeArcFurnace(metal)
         global.arcFurnace(ore, ingot, 1, ingot, 0.5)
         global.arcFurnace(dust, ingot, 1)
-        global.arcFurnace(crushed, ingot, 1, ingot, 0.75)
+        global.arcFurnace(crushed, ingot, 3, ingot, 0.75)
 
         /*
             Nugget
@@ -117,14 +117,14 @@ onEvent('recipes', event => {
         */
         removeDust(metal)
         global.crusher(ingot, dust, 1)
-        global.crusher(crushed, dust, 2, secondDust, 0.15)
+        global.crusher(crushed, dust, 3, secondDust, 0.25)
 
         /*
             Crushed Ore
         */
         removeCrushed(metal)
         global.crushingWheel(ingot, dust, 1)
-        global.crushingWheel(crushed, dust, 1, dust, 0.10)
+        global.crushingWheel(crushed, dust, 2, dust, 0.10)
         global.crushingWheel(ore, crushed, 1, dust, 0.30)
 
         /*

@@ -47,7 +47,7 @@ onEvent('recipes', event => {
                 "item": "create:incomplete_precision_mechanism"
               },
               {
-                "item": "create:wrench"
+                "item": "immersiveengineering:hammer"
               }
             ],
             "results": [

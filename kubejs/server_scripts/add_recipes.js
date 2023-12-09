@@ -191,6 +191,12 @@ onEvent('recipes', event => {
             "type": "immersiveengineering:crusher",
             "secondaries": [
                 {
+                    "chance": 0.5,
+                    "output": {
+                        "item": output
+                    }
+                },
+                {
                     "chance": output2Chance,
                     "output": {
                         "item": output2
@@ -383,17 +389,17 @@ onEvent('recipes', event => {
             "ingredients": [
                 {
                     "fluid": input,
-                    "amount": 1
+                    "amount": 10
                 },
                 {
                     "fluid": input2,
-                    "amount": 1
+                    "amount": 10
                 }
             ],
             "results": [
                 {
                     "fluid": output,
-                    "amount": 2
+                    "amount": 20
                 }
             ],
             "heatRequirement": "heated"

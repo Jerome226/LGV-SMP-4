@@ -5538,7 +5538,7 @@ hash = "e2ff7034c3be98983f89e3a56899a31d2c100c95d0506dbcc257849651cb81c2"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "cd0405c516f72dab673ea3ed7be0e693f9fa6405959272c1b8c1965f3f3d95ba"
+hash = "b54b4794d35e2955afb232e9eab436d645e7a8c593b3fab7400189bf32620b1e"
 
 [[files]]
 file = "kubejs/server_scripts/alloying.js"
@@ -5546,7 +5546,7 @@ hash = "9d0bc70d6a9fdb6c4c52c32c122ff59d8ed69959af6a6bb205a1e8c74c6fd93a"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "5f2887a7ff4949656593d4091a833994bea7e49510890c948eb881aabfbffc84"
+hash = "678545b88d08d013c7027ba40dbc5ed95b8a6d1c4e3027a287ea5baf7dd3bf07"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
@@ -5562,7 +5562,7 @@ hash = "b88a77bfc65450145d8907239b650ef14539b79031dd2c718641b3cefedaac9c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "dc545f822abde2a0069495408cb61c61a12641ae23b8b4b582225a952904d565"
+hash = "2eac203472566818b9397440b7c16760dbf13a3b862b61f0a0cfc50c24c50565"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -5574,7 +5574,7 @@ hash = "87da909ebba07fe9bfca583452ae6c06bc75d30b3980db5ab74fd927235e8d93"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
-hash = "9b068afcf9ef5d0f8e9ca96c7efc96f02a5acf3fb35d37a8d61e6fd2132ffa21"
+hash = "5b857c0ee255015cf3e942bc74ab8b95706a93ad3a23c4652b64a86980b6f126"
 
 [[files]]
 file = "kubejs/server_scripts/vs_clockwork.js"

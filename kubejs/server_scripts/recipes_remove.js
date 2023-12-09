@@ -4,7 +4,6 @@ onEvent('recipes', event => {
 
 	//temp no eye because no finished
 	global.recipesOutputToRemove.push(
-		'botania:terra_plate',
 		'minecraft:beacon',
 		'minecraft:ender_eye'
 	)
