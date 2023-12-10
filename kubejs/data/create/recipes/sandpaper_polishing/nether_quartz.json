@@ -2,7 +2,7 @@
   "type": "create:sandpaper_polishing",
   "ingredients": [
     {
-      "item": "minecraft:nether_quartz"
+      "item": "minecraft:quartz"
     }
   ],
   "results": [

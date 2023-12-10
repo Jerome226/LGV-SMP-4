@@ -21,4 +21,5 @@ temp/
 !.packwizignore
 !servers.dat
 /config/jei/world/local/**
+/config/jei/world/server/**
 /config/oculus.properties

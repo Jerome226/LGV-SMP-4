@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:plate_iron"
+    },
+    {
+      "item": "immersiveengineering:stick_steel"
+    },
+    {
+      "item": "immersiveengineering:stick_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:iron_frame"
+    }
+  ]
+}

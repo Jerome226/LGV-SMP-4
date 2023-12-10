@@ -11,6 +11,7 @@
 /mods/.index/**
 !servers.dat
 /config/jei/world/local/**
+/config/jei/world/server/**
 /config/oculus.properties
 
 /mods/textrues_embeddium_options**.jar

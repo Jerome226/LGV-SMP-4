@@ -112,4 +112,89 @@ onEvent('recipes', event => {
         "loops": 5
       }).id('create:kinetics/precision_mechanism')
 
+      event.custom({
+        "type": "create:sequenced_assembly",
+        "ingredient": {
+          "tag": "forge:plates/iron"
+        },
+        "transitionalItem": {
+          "item": "kubejs:incomplete_light_mechanism"
+        },
+        "sequence": [
+          {
+            "type": "create:deploying",
+            "ingredients": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              },
+              {
+                "item": 'create:precision_mechanism'
+              }
+            ],
+            "results": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              }
+            ]
+          },
+          {
+            "type": "create:filling",
+            "ingredients": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              },
+              {
+                "fluid": "immersiveengineering:redstone_acid",
+                "nbt": {},
+                "amount": 250
+              }
+            ],
+            "results": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              }
+            ]
+          },
+          {
+            "type": "create:deploying",
+            "ingredients": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              },
+              {
+                "item": "immersiveengineering:light_bulb"
+              }
+            ],
+            "results": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              }
+            ]
+          },
+          {
+            "type": "create:deploying",
+            "ingredients": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              },
+              {
+                "item": "immersiveengineering:voltmeter"
+              }
+            ],
+            "results": [
+              {
+                "item": "kubejs:incomplete_light_mechanism"
+              }
+            ]
+          }
+        ],
+        "results": [
+          {
+            "item": "kubejs:light_mechanism",
+            "chance": 100.0
+          }
+        ],
+        "loops": 1
+      }).id('create:kinetics/light_mechanism')
+
 })

@@ -22,6 +22,10 @@ onEvent('item.registry', event => {
     event.create('steel_frame').maxStackSize(64);
     event.create('aluminum_frame').maxStackSize(64);
 
+    event.create('resistor').maxStackSize(64);
+    event.create('transistor').maxStackSize(64);
+    event.create('diode').maxStackSize(64);
+
     event.create('aluminum_mechanical_component').maxStackSize(64);    
 
     event.create('basic_electronic_component').maxStackSize(64);

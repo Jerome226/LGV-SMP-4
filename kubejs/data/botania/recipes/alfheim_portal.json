@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WTW",
+    "WNW",
+    "WTW"
+  ],
+  "key": {
+    "T": {
+      "tag": "botania:terrasteel_ingots"
+    },
+    "N": {
+      "tag": "forge:nether_stars"
+    },
+    "W": {
+      "tag": "botania:livingwood_logs"
+    }
+  },
+  "result": {
+    "item": "botania:alfheim_portal"
+  }
+}

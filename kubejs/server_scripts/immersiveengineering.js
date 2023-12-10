@@ -1,13 +1,26 @@
 onEvent('recipes', event => {
 
+    event.recipes.createMechanicalCrafting('2x kubejs:redstone_engineering_assembly', [
+        'ASA',
+        'PCP',
+        'ALA'
+    ], {
+        C: 'immersiveengineering:component_iron',
+        P: 'minecraft:redstone',
+        S: 'immersiveengineering:connector_probe',
+        L: 'quark:redstone_randomizer',
+        A: 'create:andesite_casing'
+    }).id('kubejs:redstone_engineering_assembly')
+
     event.recipes.createMechanicalCrafting('4x kubejs:light_engineering_assembly', [
         'ASA',
         'PCP',
-        'ASA'
+        'ALA'
     ], {
         C: 'immersiveengineering:component_iron',
         P: 'immersiveengineering:component_electronic',
-        S: 'immersiveengineering:wire_electrum',
+        S: 'createaddition:capacitor',
+        L: 'immersiveengineering:wire_lead',
         A: 'create:railway_casing'
     }).id('kubejs:light_engineering_assembly')
 

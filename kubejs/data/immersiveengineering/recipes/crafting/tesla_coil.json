@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["iii"," l ","ehc"],"key":{"i":{"tag":"forge:plates/aluminum"},"l":{"item":"immersiveengineering:coil_mv"},"h":{"item":"immersiveengineering:capacitor_hv"},"e":{"item":"immersiveengineering:component_electronic_adv"},"c":{"item":"immersiveengineering:component_iron"}},"result":{"item":"immersiveengineering:tesla_coil"}}
