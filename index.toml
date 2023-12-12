@@ -801,6 +801,10 @@ file = "defaultconfigs/curios-server.toml"
 hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
 
 [[files]]
+file = "defaultconfigs/dimension_access_manager-server.toml"
+hash = "fd4a35096643fb96e699b32fd21f0208a03fa92d6321e8d3ed218221fe78ef90"
+
+[[files]]
 file = "defaultconfigs/fixmyspawnr-server.toml"
 hash = "d90078295eaeb47e439013754add7775d3d27f61263e5748d7fff7769f26a0af"
 
@@ -822,7 +826,7 @@ hash = "1539a3d0619e296cae76f04c18816a8e206806df884430b28488ceff875a57f2"
 
 [[files]]
 file = "defaultconfigs/ftbranks/README.txt"
-hash = "48fd8d7d4352b5893e10d04ead2ccb3ba051e1357db627282c747adfa1cfd2a5"
+hash = "6fa26cac9f8963d78823714409d3a7b99e1d28621edc2a742c37ba6e6bab8ac8"
 
 [[files]]
 file = "defaultconfigs/ftbranks/players.snbt"
@@ -847,6 +851,10 @@ hash = "a4e5042b613e125aa3aab360cf90481184bcc440c4f55a124472b1b67b6936d0"
 [[files]]
 file = "defaultconfigs/jei-server.toml"
 hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "faf190877e80f225ce26a9c32cce375d8a118a4c2646eb54ada67a349cbab743"
 
 [[files]]
 file = "defaultconfigs/railways-server.toml"
@@ -5413,6 +5421,22 @@ file = "kubejs/data/immersiveengineering/recipes/alloysmelter/andesite_alloy.jso
 hash = "1801b7ee2750bd82a6bd006abd72dbdcb7ef2ce21f2ce2e0468166cb42d64d24"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/recipes/blueprint/bullet_dragonsbreath.json"
+hash = "6b889fed67137dfabebd747e7a602acb2b14ecebd6c97ea23a3d822feaf007b5"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/blueprint/bullet_flare_green.json"
+hash = "cd2b87054f36296230049136761b014c1f5107b8bcabdce5458bf6342760d3c2"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/blueprint/bullet_flare_red.json"
+hash = "3e9dfabd98b6d083d9188810739d771ac8d6faf46d25970fd836fb85a19009cd"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/blueprint/bullet_flare_yellow.json"
+hash = "d7d5be5e2118c08cef26d08ed0aa84d81406d09d3b6ec952b836b444035bb79f"
+
+[[files]]
 file = "kubejs/data/immersiveengineering/recipes/blueprint/circuit_board.json"
 hash = "56c036ce559f95a56948b35ea8c260462113a24f9eed578ec9a21e4b9d203aa5"
 
@@ -5654,7 +5678,7 @@ hash = "03be5fc0001bb7515ce09830b1e132b41f78b59512178fe7c6ecf3ea275f2724"
 
 [[files]]
 file = "kubejs/server_scripts/loot_tables.js"
-hash = "b88a77bfc65450145d8907239b650ef14539b79031dd2c718641b3cefedaac9c"
+hash = "9755691d6eea59d7fb55fb4e2c93a9226b960fd31bc006e31ffb5781a97d1d78"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -5670,7 +5694,7 @@ hash = "617f8d13bbbf0476d10eeea922881a8aa21e20d35cd66f0ea3d94a9f6fd61014"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
-hash = "420f1c286f5ea2e8003614f714f94f6d3d33ea19585f97f70d016520a175c4ec"
+hash = "b3239531b48c673f575ced81bca0b02fff235a3b76359571c7ee58c190a4a046"
 
 [[files]]
 file = "kubejs/server_scripts/vs_clockwork.js"

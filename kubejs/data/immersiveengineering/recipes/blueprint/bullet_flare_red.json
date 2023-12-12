@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:blueprint",
+    "inputs": [
+        {
+            "item": "immersiveengineering:empty_shell"
+        },
+        {
+            "tag": "forge:gunpowder"
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "tag": "forge:dyes/red"
+        }
+    ],
+    "category": "specialBullet",
+    "result": {
+        "item": "immersiveengineering:flare",
+        "nbt": "{flareColour:13381126}"
+    }
+}

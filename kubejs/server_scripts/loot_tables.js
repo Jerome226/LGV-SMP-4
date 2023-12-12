@@ -14,3 +14,11 @@ onEvent('block.loot_tables', event => {
         event.addSimpleBlock(`immersiveengineering:deepslate_ore_${i}`, `immersiveengineering:raw_${i}`)
     });
 })
+
+onEvent('entity.loot_tables', event => {
+  event.addEntity('minecraft:iron_golem', table => {
+    table.addPool(pool => {
+      pool.addItem('minecraft:iron_ingot')
+    })
+  })
+})

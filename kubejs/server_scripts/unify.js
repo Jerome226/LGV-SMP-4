@@ -124,8 +124,8 @@ onEvent('recipes', event => {
         */
         removeCrushed(metal)
         global.crushingWheel(ingot, dust, 1)
-        global.crushingWheel(crushed, dust, 2, dust, 0.10)
-        global.crushingWheel(ore, crushed, 1, dust, 0.30)
+        global.crushingWheel(crushed, dust, 2, dust, 0.05)
+        global.crushingWheel(ore, crushed, 1, dust, 0.15)
 
         /*
             Wire
