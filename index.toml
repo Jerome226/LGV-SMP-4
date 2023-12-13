@@ -6156,11 +6156,6 @@ file = "mods/selene-1.18.2-1.17.11.jar"
 hash = "655f636372b0a50902a0268ff3b58e076e3653738b2100b55361c85bbfefab1d"
 
 [[files]]
-file = "mods/serverconfig-updater.pw.toml"
-hash = "1b3e35cff5ec97143fb686765f024d4aab6f39db8b37a62cd02cf2902e52161f"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "862b48454f6cd459349b0f6e53cba86cb2f8ee3263cba9d4fcf1841624b3ef15"
 metafile = true
