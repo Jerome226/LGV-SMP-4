@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[" R ",
+	 "CBC",
+	 " W "],
+	"key":
+	{
+		"R":
+		{
+			"tag": "forge:rods/copper"
+		},
+		"B":
+		{
+			"item": "create:brass_casing"
+		},
+		"C":
+		{
+			"item": "immersiveengineering:capacitor_mv"
+		},
+		"W":
+		{
+			"item": "immersiveengineering:wirecoil_copper"
+		}
+	},
+	"result":{
+		"item": "createaddition:modular_accumulator",
+		"count": 1
+	}
+}

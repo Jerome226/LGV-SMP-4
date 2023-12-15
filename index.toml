@@ -562,7 +562,7 @@ hash = "700d1b17c7a6567a766e52c000dd3d763b3abec122b482076123cd8e0ca29d78"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "bf83e172f965324f1f3d2fc3fbfd1495322495c92a06631f4ec8df631b175cff"
+hash = "ee3c539393a380e604d5b5d634930b57c3d4eff277b36271850729413ff156b8"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -5361,6 +5361,10 @@ file = "kubejs/data/createaddition/recipes/compacting/cake_base.json"
 hash = "3e4868a7cbfcad4a6539c62bcd1592467fcc305ac531f1b48051d34535ab491a"
 
 [[files]]
+file = "kubejs/data/createaddition/recipes/crafting/modular_accumulator.json"
+hash = "c2fdc774dd1440d957dd70017fcbd249e3cac8022af24ac6ba1a2d4d6ca8feb1"
+
+[[files]]
 file = "kubejs/data/createaddition/recipes/crafting/portable_energy_interface.json"
 hash = "233b76c0816ee5bf5d2271cdd92a958001ce7d07efe2ac4f2e724e5d8497e1a1"
 
@@ -5653,6 +5657,10 @@ file = "kubejs/data/kubejs/recipes/pressing/creosote_sheet.json"
 hash = "818cbdcbe194bf7d2aa947be963b1dc674d82160cc9c4d4decaa61a43f71cd93"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/beacon.json"
+hash = "cb5a7020804f13a6577b7a4984a0cdf446630b9bcdd7f05347f4fd107d920e80"
+
+[[files]]
 file = "kubejs/server_scripts/!.json"
 hash = "e2ff7034c3be98983f89e3a56899a31d2c100c95d0506dbcc257849651cb81c2"
 
@@ -5682,7 +5690,7 @@ hash = "9755691d6eea59d7fb55fb4e2c93a9226b960fd31bc006e31ffb5781a97d1d78"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "303f030c0e039c5975d57c794a8b5dc337f5c6385570f90b85ebde233ab4b3f7"
+hash = "fb655fbfa84877e287c9e0689388ec408793c6dc773c10ae7294a3042f1e383c"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
