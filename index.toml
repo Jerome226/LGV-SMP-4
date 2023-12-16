@@ -766,7 +766,7 @@ hash = "51019e521ab1e83acf9c6c3e9fde0d5c5da9ed7178048bd7fa1b0161f767b31b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -5818,7 +5818,7 @@ hash = "6414213a40a050b2e2c01c0b4558a5dac14a008497d6dd16f81e939a0ea15250"
 
 [[files]]
 file = "kubejs/server_scripts/tags_functions.js"
-hash = "b177cbb68e4e337a324e11a10f373b9a161ff2ebfee6ca3aeb949feb13d6537f"
+hash = "72b69aeb5ed6cd63c180475632c983ddfc640b2fa5013d1c3222cd0d0ba41f35"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"

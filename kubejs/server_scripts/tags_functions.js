@@ -5,9 +5,7 @@ onEvent('tags.blocks', event => {
         event.add('minecraft:mineable/pickaxe', i)
         event.add('minecraft:mineable/axe', i)
     });
-})
 
-onEvent('tags.items', event => {
     event.add('minecraft:mineable/pickaxe', 'create_jetpack:jetpack')
 })
 
