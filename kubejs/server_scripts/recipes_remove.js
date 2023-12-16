@@ -4,15 +4,20 @@ onEvent('recipes', event => {
 
 	//temp no eye because no finished
 	global.recipesOutputToRemove.push(
+		'immersivepetroleum:gas_generator',
+		'shrink:shrinking_device'
 	)
 	global.recipesOutputToRemove.forEach(i => event.remove({ output: i }));
 	global.recipesIdToRemove.push(
+		'immersiveengineering:crafting/concrete_leaded',
+		'immersiveengineering:crafting/blastbrick_reinforced',
 		'create:crafting/materials/andesite_alloy',
 		'create:crafting/materials/andesite_alloy_from_zinc',
 		'create:mixing/andesite_alloy',
 		'createbigcannons:mixing/alloy_nethersteel_cast_iron',
 		'createbigcannons:mixing/alloy_nethersteel_steel',
 		'immersiveengineering:crafting/rs_engineering',
+		'createaddition:crafting/accumulator_conversion',
 		'immersiveengineering:crafting/light_engineering',
 		'immersiveengineering:crafting/heavy_engineering',
 		'immersiveengineering:refinery/acetaldehyde',

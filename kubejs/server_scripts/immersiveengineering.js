@@ -75,6 +75,9 @@ onEvent('recipes', event => {
     global.addItemApplication(false, 'botania:dreamwood_planks', 'kubejs:shadow_sheet', 'create:shadow_steel_casing')
     global.addItemApplication(false, 'botania:shimmerwood_planks', 'kubejs:radiant_sheet', 'create:refined_radiance_casing')
 
+    global.addItemApplication(false, 'immersiveengineering:concrete', 'immersiveengineering:plate_lead', 'immersiveengineering:concrete_leaded')
+    global.addItemApplication(false, 'immersiveengineering:blastbrick', 'immersiveengineering:plate_steel', 'immersiveengineering:blastbrick_reinforced')
+
     technicalCrafting('light', 'kubejs:iron_frame')
     technicalCrafting('heavy', 'kubejs:steel_frame')
     technicalCrafting('ponderous', 'kubejs:aluminum_frame')

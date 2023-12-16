@@ -2918,7 +2918,7 @@ hash = "f2a9df3eb264fb2b57cf5e26dbf1073b3f98273b3a8e2f5c148166e58047bcb9"
 
 [[files]]
 file = "kubejs/assets/create/lang/en_us.json"
-hash = "916de58ede717cd4cdb53cb148b4a3ddc9e1445542eb0f551b8059f4213cef97"
+hash = "a7f386d2017aa1cd770e025ad8e0ab112a9b0555756954eab12127d35dc735ae"
 
 [[files]]
 file = "kubejs/assets/create/models/block/controller_rail/block_ascending_north.json"
@@ -3023,6 +3023,22 @@ hash = "65dfa82e9c0f8cef5d67a6a3e3c089cf3976a72d170fa770ad9ba7dc1121a953"
 [[files]]
 file = "kubejs/assets/createaddition/lang/en_us.json"
 hash = "0840f7e166789aafb46a5b3bbf94f411c5bac6b837c78b4bb618ba0c64f63da6"
+
+[[files]]
+file = "kubejs/assets/createbigcannons/models/item/molten_bronze_bucket.json"
+hash = "607dce42bd46adecffdd865d42e28c787549eb92f598d0e099be3db01e057759"
+
+[[files]]
+file = "kubejs/assets/createbigcannons/models/item/molten_cast_iron_bucket.json"
+hash = "7271386410540dea0a8b675c80ef5d0bc48f8c044ab60685850308e42eb26c03"
+
+[[files]]
+file = "kubejs/assets/createbigcannons/models/item/molten_nethersteel_bucket.json"
+hash = "553ed49d8f126a7441383cfce2f57887aababeb15255c0948613143db2fb434e"
+
+[[files]]
+file = "kubejs/assets/createbigcannons/models/item/molten_steel_bucket.json"
+hash = "a2b328dbe6467e086c26915d49846a412d272d26b8ae9a95e48a29233da12e68"
 
 [[files]]
 file = "kubejs/assets/immersiveengineering/lang/en_us.json"
@@ -4173,6 +4189,58 @@ file = "kubejs/assets/kubejs/models/item/light_mechanical_block.json"
 hash = "dba9d2dce99d704a77271bf7473a288b5b0495dfb18f0390b282347d73627eeb"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/molten_aluminum_bucket.json"
+hash = "ba98871541a2b71f6a3b5e64b8f9488903918013ed1653dac4cf23864c13e358"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_brass_bucket.json"
+hash = "dd9e73d8dfdae2521eb0735f66fffdf594afaf7c89240f0403c205d86262ac62"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_constantan_bucket.json"
+hash = "769868bec8668f4766d1c3962e2dc8fca315b407250d58fc33ff8cc1be8d74dc"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_copper_bucket.json"
+hash = "710a5ef9dc89907fba588dcbe8879b5a7371c5a39cdcd069e5935cb98f0aedfa"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_electrum_bucket.json"
+hash = "ba9cd0445db19f4b9de385a1a780c77c8d728098434253643719719245615345"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_gold_bucket.json"
+hash = "cb7fa2680e11c35b09d53fe15c97447d5477531a10bf64be6682c69eccb3d538"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_iron_bucket.json"
+hash = "2f265f739026697f3ca76b676a5ded194fb421ef769e7a4aeb5a026ce68978cb"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_lead_bucket.json"
+hash = "1ec3fcd40608f71249234b1997f6ffed193ab9a8d2b5348fc231518fc004b1be"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_netherite_bucket.json"
+hash = "1244faad4bf51db751c29102a06d86fecebfeba8da2ad324cc384fe95cb69949"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_nickel_bucket.json"
+hash = "aa380b78ab19323689a3850b7e5f92400fb590a706a22c34106866a687622049"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_silver_bucket.json"
+hash = "34fb8c19105a99d1b27b0e7c80206b97887f0f6dd7c34ca3e1ac1b2faab93602"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_uranium_bucket.json"
+hash = "419308d9cb0130b05c83effbee91834bb3c5a216c789216d479fcdb5dcb76719"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/molten_zinc_bucket.json"
+hash = "5ba8f1da6ff6134b49968e1450f8257f7f21b24433bd279486c8cccda0c32b7d"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/ponderous_mechanical_assembly.json"
 hash = "263ece037494b73341f08ca8851c35182016d7645a400dcf8576092b29237da5"
 
@@ -5057,14 +5125,6 @@ file = "kubejs/assets/minecraft/textures/item/iron_nugget.png"
 hash = "d9966e612152153293797d7b787ad101a4014ddc8e72437eba2d044fd432b6d7"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/item/leather.png"
-hash = "9d50b48984f240388f9938be8ec4aadd0ef2d167d6c4d2597a0e4421bfabb39b"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/item/mutton.png"
-hash = "6ede79abf489d6ae702e713e5df8d715312a07fd51bfb04d1a8968805c05a0b0"
-
-[[files]]
 file = "kubejs/assets/minecraft/textures/models/armor/bismuth_bronze_layer_1.png"
 hash = "8810b859ae92d04f6eca139cd161892777c81eb98d35b0996bbd926b5804e91f"
 
@@ -5262,11 +5322,71 @@ hash = "35e0cd42c34526c552bd9c4c507bacc541da9bb243d63c758f11ce3df399c3d8"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/lang/en_us.json"
-hash = "9d6a30e4241c0b1df9519ef7fd2a42e41af9458aba28dca72949d2bd2f232daa"
+hash = "9d43190c19f64c31ce1a7751466a9835eab4bba03c8449d42fb3b43ec2b630cd"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/models/item/chocolate_frosting_bucket.json"
+hash = "c7089452087d218a6ddbf9ddd301e946c4e0278dd5327796bb9c5c1b1570148c"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/models/item/strawberry_frosting_bucket.json"
+hash = "f6e04f2c1832944251a749d6269ceb46d75576eb715b8c9eb67d9297a05d9003"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/models/item/vanilla_frosting_bucket.json"
+hash = "b71709365ac89f6dd849e65d95234c4d80444a1e31164e144b3f10a3e2cd4a59"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/chocolate_frosting_flow.png"
+hash = "f1fad916146b3b04162a6b461f17f5cd05657323ee597062b27efc185fbfc6e4"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/chocolate_frosting_flow.png.mcmeta"
+hash = "abc43b2a29fe5106fb7e64028d320ef2c4351efd7fe26e66c878d517104fab5b"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/chocolate_frosting_still.png"
+hash = "ab2a2585533fea7a125e1fad0b69055f8927f6433c4806403c61a8059cdf37a8"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/chocolate_frosting_still.png.mcmeta"
+hash = "abc43b2a29fe5106fb7e64028d320ef2c4351efd7fe26e66c878d517104fab5b"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_flow.png"
+hash = "abf74cafb8b25c73ae192c71bef87c4c2bf6288fb7fc4899d6b8dc89eaf7d535"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_flow.png.mcmeta"
+hash = "ca12bdb5b731a77a31f1ede28d6d8fa1ab95c35df761bab00d241a0368f3d562"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_still.png"
+hash = "82e9ec1c55bbecf3d0c3fbc747cc880d2949251de15b8fb990cd10ed13d894d8"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_still.png.mcmeta"
+hash = "ca12bdb5b731a77a31f1ede28d6d8fa1ab95c35df761bab00d241a0368f3d562"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/vanilla_frosting_flow.png"
+hash = "1fc291112546de18a3684372bd596fbee2599c18238e37f073ba05d5b7846111"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/vanilla_frosting_flow.png.mcmeta"
+hash = "aaf7aa8d1853738772150b5606fe434c5a321c23337eee8324e1b3cbf7a66ddd"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/vanilla_frosting_still.png"
+hash = "702825716e46007bac361e6df58d3e7a47f9c341dbcfc3ae4f9a2aaa15a5567e"
+
+[[files]]
+file = "kubejs/assets/vs_clockwork/textures/fluid/vanilla_frosting_still.png.mcmeta"
+hash = "aaf7aa8d1853738772150b5606fe434c5a321c23337eee8324e1b3cbf7a66ddd"
 
 [[files]]
 file = "kubejs/client_scripts/constants.js"
-hash = "3e77a5a0486e257135d7ae850eea7855b741483395b53229c4373b6c6aa17390"
+hash = "fc2eb2fcf11b1a8cb2077ec136df53fdbc6e6bb7b5fb3dca012756109082bdf0"
 
 [[files]]
 file = "kubejs/client_scripts/jei_add.js"
@@ -5346,11 +5466,11 @@ hash = "9e492eb7d35444d736f29fc5424bf7c1c3734c72c79b98c923483875f35bd577"
 
 [[files]]
 file = "kubejs/data/create/recipes/sequenced_assembly/radiant_sheet.json"
-hash = "67c02b7bef418fdddc6d4fa80ed318ff1a45f6229181b89cccce14212cb320a2"
+hash = "dabefdcdfbb1935b7d5e81d511afe5fe4a869c59a2d697b8c2c680bee5610cbe"
 
 [[files]]
 file = "kubejs/data/create/recipes/sequenced_assembly/shadow_sheet.json"
-hash = "8c87b32781d1d6e7ada2a6dd6857188d7fb52b37c53196a150ef39a96cf91f89"
+hash = "c81b24c831162e406f0dbeacb1603c0958e52deedcdca452506add0009f004bc"
 
 [[files]]
 file = "kubejs/data/create/recipes/splashing/wheat_flour.json"
@@ -5618,7 +5738,7 @@ hash = "1d49ebf6af842e4e72585e214bc05424e4295a32f5555cc82b26f5e1e17cfe6a"
 
 [[files]]
 file = "kubejs/data/immersivepetroleum/recipes/hydrotreater/sulfur_recovery.json"
-hash = "bdbf24f62cb90fe873834896c1a84e3f6d2ad25e91826ea832dc6a9fb4fb56ca"
+hash = "c169b4c336daaa9ec28f584c7f49c2bcf2c181d16d6da534e670d7528debe7bc"
 
 [[files]]
 file = "kubejs/data/immersivepetroleum/recipes/refinery/acetaldehyde.json"
@@ -5670,11 +5790,11 @@ hash = "a21c6965aa5b517b26d656716080b5d6a986033bd2f0311796b893582efa933b"
 
 [[files]]
 file = "kubejs/server_scripts/alloying.js"
-hash = "9d0bc70d6a9fdb6c4c52c32c122ff59d8ed69959af6a6bb205a1e8c74c6fd93a"
+hash = "5aeb32d14a6958b702077672b99045181c6b8db3726225464cceb1e9c75a101f"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "09d87786a82d873826450f72f69104125dd1db91b74fed76ddf5b082db4f718a"
+hash = "9a782f7cddf18a1f03f5e7124e06fc2c62d59bf0826bfc4bb95dc485fbba4c1c"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
@@ -5682,15 +5802,15 @@ hash = "4e9048db3b66163ab129ba00165e6b0fbfa1a2ebb8fc57e8bf0cd6553b272eeb"
 
 [[files]]
 file = "kubejs/server_scripts/immersiveengineering.js"
-hash = "03be5fc0001bb7515ce09830b1e132b41f78b59512178fe7c6ecf3ea275f2724"
+hash = "199d25e3af5389544b9cb2831490a9193c6e78118502223bc84549777bd57e98"
 
 [[files]]
 file = "kubejs/server_scripts/loot_tables.js"
-hash = "9755691d6eea59d7fb55fb4e2c93a9226b960fd31bc006e31ffb5781a97d1d78"
+hash = "0e03b43689d13b484d1f7effd9a4dfa6eb888880fbc5c5631740de3893e9fe34"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "fb655fbfa84877e287c9e0689388ec408793c6dc773c10ae7294a3042f1e383c"
+hash = "c2f3bb2aed6537caf1d2f2a6b42a85f42d7c91b6077ec9e0385cb00a745f5918"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -5698,7 +5818,7 @@ hash = "6414213a40a050b2e2c01c0b4558a5dac14a008497d6dd16f81e939a0ea15250"
 
 [[files]]
 file = "kubejs/server_scripts/tags_functions.js"
-hash = "617f8d13bbbf0476d10eeea922881a8aa21e20d35cd66f0ea3d94a9f6fd61014"
+hash = "b177cbb68e4e337a324e11a10f373b9a161ff2ebfee6ca3aeb949feb13d6537f"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
@@ -5718,7 +5838,7 @@ hash = "a92550729180e5e8b162d240c6b75a7e6dd032cb1a4f2061b936e989d008446e"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"
-hash = "317ccaf0ca2145d5a91efaa37e02c0501ceb84006a8ec864d57bbb3ea52baa56"
+hash = "c782fc32eefe87779fe51cf78407561c8f9dee40e2bb840265a7231eb9fe3909"
 
 [[files]]
 file = "kubejs/startup_scripts/fluids.js"
@@ -6105,6 +6225,10 @@ hash = "8af424346160d9fc5daa8525e1b098e1955427267ca62bdddf46a6cb2262f138"
 [[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
 hash = "0f2cd2caba33e696fd810c8ea1c27c2e0a651bbeec54c7ac971840f238e40513"
+
+[[files]]
+file = "mods/lootjs-forge-1.18.2-2.7.7.jar"
+hash = "b1ee29071108ff14de0256f8c25b43d5af9d32cea22fe1f50693c7d618d5d100"
 
 [[files]]
 file = "mods/memoryleakfix-forge-1.17+-1.0.0.jar"

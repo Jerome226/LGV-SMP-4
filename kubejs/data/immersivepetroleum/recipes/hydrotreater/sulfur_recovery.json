@@ -7,12 +7,12 @@
     "amount": 10
   },
   "input": {
-    "tag": "forge:diesel_sulfur",
+    "tag": "forge:raw_diesel",
     "amount": 10
   },
   "secondary_input": {
-    "tag": "forge:raw_diesel",
-    "amount": 5
+    "tag": "kubejs:water",
+    "amount": 10
   },
   "secondary_result": {
     "item": "immersiveengineering:dust_sulfur",

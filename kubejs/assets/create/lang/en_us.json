@@ -1,3 +1,8 @@
 {
+    "create.contraptions.propellor.movement_direction": "Rotation Direction",
+    "create.generic.normal": "Clockwise",
+    "create.generic.inverted": "Counter-Clockwise",
+    "create.LOCKED": "Locked",
+    "create.UNLOCKED": "Unlocked",
     "item.create.brass_sheet": "Brass Plate"
 }

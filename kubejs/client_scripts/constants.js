@@ -6,3 +6,9 @@ global.itemsToShow.push(
     'create:chromatic_compound',
     'create:crushed_aluminum_ore'
 )
+
+global.itemsToHide.push(
+    'vs_clockwork:universal_joint',
+    'vs_clockwork:solver',
+    'vs_clockwork:welder'
+)

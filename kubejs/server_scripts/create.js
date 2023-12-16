@@ -197,4 +197,8 @@ onEvent('recipes', event => {
         "loops": 1
       }).id('create:kinetics/light_mechanism')
 
+      event.recipes.createMixing(Fluid.of('vs_clockwork:vanilla_frosting', 100), [Fluid.of('immersiveengineering:biodiesel', 100)]).heated()
+      event.recipes.createMixing(Fluid.of('vs_clockwork:chocolate_frosting', 100), [Fluid.of('immersivepetroleum:diesel', 100)]).heated()
+      event.recipes.createMixing(Fluid.of('vs_clockwork:strawberry_frosting', 100), [Fluid.of('immersivepetroleum:gasoline', 100)]).heated()
+
 })

@@ -1,11 +1,22 @@
 onEvent('tags.blocks', event => {
-    event.remove('create:passive_boiler_heaters', 'minecraft:campfire')
-    event.remove('create:passive_boiler_heaters', 'minecraft:soul_campfire')
+    event.add('minecraft:mineable/pickaxe', 'create_jetpack:jetpack')
+
+    global.blocksToFix.forEach(i => {
+        event.add('minecraft:mineable/pickaxe', i)
+        event.add('minecraft:mineable/axe', i)
+    });
+})
+
+onEvent('tags.items', event => {
+    event.add('minecraft:mineable/pickaxe', 'create_jetpack:jetpack')
 })
 
 onEvent('tags.fluids', event => {
 
     global.extraTagFluidsWater = [
+        'vs_clockwork:vanilla_frosting',
+        'vs_clockwork:strawberry_frosting',
+        'vs_clockwork:chocolate_frosting',
         'immersivepetroleum:crudeoil',
         'immersivepetroleum:diesel_sulfur',
         'immersivepetroleum:diesel',
