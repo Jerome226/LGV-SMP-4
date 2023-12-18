@@ -5,12 +5,12 @@
     "item.vs_clockwork.phys_bearing": "Physics Bearing",
     "item.vs_clockwork.vanilla_frosting_bucket": "Refined Biodiesel Bucket",
     "item.vs_clockwork.chocolate_frosting_bucket": "Refined Diesel Bucket",
-    "item.vs_clockwork.strawberry_frosting_bucket": "Refined Gasoline Bucket",
+    "item.vs_clockwork.strawberry_frosting_bucket": "Refined Lava Bucket",
     "fluid.vs_clockwork.vanilla_frosting": "Refined Biodiesel",
     "fluid.vs_clockwork.chocolate_frosting": "Refined Diesel",
-    "fluid.vs_clockwork.strawberry_frosting": "Refined Gasoline",
+    "fluid.vs_clockwork.strawberry_frosting": "Refined Lava",
     "block.vs_clockwork.vanilla_frosting": "Refined Biodiesel",
     "block.vs_clockwork.chocolate_frosting": "Refined Diesel",
-    "block.vs_clockwork.strawberry_frosting": "Refined Gasoline",
+    "block.vs_clockwork.strawberry_frosting": "Refined Lava",
     "item.vs_clockwork.bluperglue": "Super Mana Glue"
 }

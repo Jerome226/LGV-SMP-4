@@ -5322,7 +5322,7 @@ hash = "35e0cd42c34526c552bd9c4c507bacc541da9bb243d63c758f11ce3df399c3d8"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/lang/en_us.json"
-hash = "9d43190c19f64c31ce1a7751466a9835eab4bba03c8449d42fb3b43ec2b630cd"
+hash = "337833aeedf72e3d8697bf5ffb72d9e043f040c55104901ce95130dc9f2c3c5c"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/models/item/chocolate_frosting_bucket.json"
@@ -5354,19 +5354,19 @@ hash = "abc43b2a29fe5106fb7e64028d320ef2c4351efd7fe26e66c878d517104fab5b"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_flow.png"
-hash = "abf74cafb8b25c73ae192c71bef87c4c2bf6288fb7fc4899d6b8dc89eaf7d535"
+hash = "b0c7fe1a91d2425747bea5b12731f6416af82780fadd66c5781835b7f2ef5865"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_flow.png.mcmeta"
-hash = "ca12bdb5b731a77a31f1ede28d6d8fa1ab95c35df761bab00d241a0368f3d562"
+hash = "77259cdf09fe827c6d23896cd8b2d6cdf5da1d2ab8d3efcdccd7641cca9a4898"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_still.png"
-hash = "82e9ec1c55bbecf3d0c3fbc747cc880d2949251de15b8fb990cd10ed13d894d8"
+hash = "6940e937d0c1bd64e87baf5e166ca37134e44ba929bc1cd46ca18775bbec23a3"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/textures/fluid/strawberry_frosting_still.png.mcmeta"
-hash = "ca12bdb5b731a77a31f1ede28d6d8fa1ab95c35df761bab00d241a0368f3d562"
+hash = "84a0ef2a3eef33b8d2cde7a87b5156909a302b2acc30ded568dcc7a92c6fb9bd"
 
 [[files]]
 file = "kubejs/assets/vs_clockwork/textures/fluid/vanilla_frosting_flow.png"
@@ -5794,7 +5794,7 @@ hash = "5aeb32d14a6958b702077672b99045181c6b8db3726225464cceb1e9c75a101f"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "9a782f7cddf18a1f03f5e7124e06fc2c62d59bf0826bfc4bb95dc485fbba4c1c"
+hash = "7acee05cb97632d2678c2115dd13c9a1774b5d6c9e9dabf950667266ba681342"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
