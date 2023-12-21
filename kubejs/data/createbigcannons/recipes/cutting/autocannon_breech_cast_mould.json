@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:treated_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "createbigcannons:autocannon_breech_cast_mould"
+    }
+  ]
+}

@@ -5501,6 +5501,14 @@ file = "kubejs/data/createaddition/recipes/mechanical_crafting/tesla_coil.json"
 hash = "aa1a086db2ba63ef4d7f3e4682d7ee49d368025495e1e9137f61f3efd61ca44d"
 
 [[files]]
+file = "kubejs/data/createbigcannons/recipes/cutting/autocannon_barrel_cast_mould.json"
+hash = "f033991843703eb0ca48e628620a6db1a28348d9bd66301582e13a88dd2639a7"
+
+[[files]]
+file = "kubejs/data/createbigcannons/recipes/cutting/autocannon_breech_cast_mould.json"
+hash = "07eed199f979738853ee129471505520f8f30f05ceb996b5e0909f54abf3d136"
+
+[[files]]
 file = "kubejs/data/createbigcannons/recipes/cutting/autocannon_recoil_spring_cast_mould.json"
 hash = "034018082ba4802fcba417b4aeceb844c6d8f29542799d78b19e5523077204e6"
 
